@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "64d84ec454917d98",
@@ -142,7 +142,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -154,10 +155,10 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "035629558f16606d",
+  "active": "876311cf369e5ade",
   "lastOpenFiles": [
+    "Hotkeys.md",
     "Examples.md",
-    "Getting Started.md",
-    "Hotkeys.md"
+    "Getting Started.md"
   ]
 }
