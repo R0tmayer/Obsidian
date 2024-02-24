@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "5f9b2b92f0abd529",
+        "id": "98984a8feb15a6e7",
         "type": "tabs",
         "children": [
           {
-            "id": "cd1d3f61c73ea28c",
+            "id": "035629558f16606d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Getting Started.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Getting Started.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Getting Started.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,15 +124,25 @@
             "type": "leaf",
             "state": {
               "type": "outline",
+              "state": {
+                "file": "Getting Started.md"
+              }
+            }
+          },
+          {
+            "id": "876311cf369e5ade",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -138,7 +154,7 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "abf30d1de51e330b",
+  "active": "035629558f16606d",
   "lastOpenFiles": [
     "Examples.md",
     "Getting Started.md",
