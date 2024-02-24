@@ -142,8 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -155,7 +154,7 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "876311cf369e5ade",
+  "active": "035629558f16606d",
   "lastOpenFiles": [
     "Hotkeys.md",
     "Examples.md",
