@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Getting Started.md",
-                "mode": "preview",
-                "source": true
+                "file": "PortalDB.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 224.50260543823242
   },
   "right": {
     "id": "64d84ec454917d98",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Getting Started.md",
+                "file": "PortalDB.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Getting Started.md",
+                "file": "PortalDB.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Getting Started.md"
+                "file": "PortalDB.md"
               }
             }
           },
@@ -142,7 +142,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -156,8 +157,11 @@
   },
   "active": "035629558f16606d",
   "lastOpenFiles": [
+    "Sources/Publish PortalDB.png",
+    "PortalDB.md",
     "Hotkeys.md",
     "Getting Started.md",
+    "Sources",
     "Examples.md"
   ]
 }
