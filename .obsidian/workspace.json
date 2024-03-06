@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PortalDB.md",
+                "file": "DeltaLeasing/Databases.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PortalDB.md",
+                "file": "DeltaLeasing/Databases.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PortalDB.md",
+                "file": "DeltaLeasing/Databases.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PortalDB.md"
+                "file": "DeltaLeasing/Databases.md"
               }
             }
           },
@@ -157,8 +157,11 @@
   },
   "active": "035629558f16606d",
   "lastOpenFiles": [
+    "DeltaLeasing/PortalDB.md",
     "Sources/Publish PortalDB.png",
-    "PortalDB.md",
+    "DeltaLeasing/Databases.md",
+    "Без названия.md",
+    "DeltaLeasing",
     "Hotkeys.md",
     "Getting Started.md",
     "Sources",
