@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DeltaLeasing/Databases.md",
+                "file": "DeltaLeasing/Test Databases.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cd6a9f10890e6a93",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ASP.NET Core.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DeltaLeasing/Databases.md",
+                "file": "ASP.NET Core.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DeltaLeasing/Databases.md",
+                "file": "ASP.NET Core.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DeltaLeasing/Databases.md"
+                "file": "ASP.NET Core.md"
               }
             }
           },
@@ -155,12 +168,13 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "035629558f16606d",
+  "active": "cd6a9f10890e6a93",
   "lastOpenFiles": [
+    "DeltaLeasing/Test Databases.md",
+    "ASP.NET Core.md",
+    "Без названия",
     "DeltaLeasing/PortalDB.md",
     "Sources/Publish PortalDB.png",
-    "DeltaLeasing/Databases.md",
-    "Без названия.md",
     "DeltaLeasing",
     "Hotkeys.md",
     "Getting Started.md",
