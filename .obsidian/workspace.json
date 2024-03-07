@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DeltaLeasing/Test Databases.md",
+                "file": "Getting Started.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ASP.NET Core.md",
-                "mode": "source",
+                "file": "Hotkeys.md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ASP.NET Core.md",
+                "file": "Getting Started.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ASP.NET Core.md",
+                "file": "Getting Started.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ASP.NET Core.md"
+                "file": "Getting Started.md"
               }
             }
           },
@@ -168,17 +167,17 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "cd6a9f10890e6a93",
+  "active": "035629558f16606d",
   "lastOpenFiles": [
-    "DeltaLeasing/Test Databases.md",
+    "Examples.md",
     "ASP.NET Core.md",
-    "Без названия",
+    "Sources/(img) Publish PortalDB.png",
+    "DeltaLeasing/Test Databases.md",
     "DeltaLeasing/PortalDB.md",
-    "Sources/Publish PortalDB.png",
-    "DeltaLeasing",
     "Hotkeys.md",
     "Getting Started.md",
-    "Sources",
-    "Examples.md"
+    "Без названия",
+    "DeltaLeasing",
+    "Sources"
   ]
 }

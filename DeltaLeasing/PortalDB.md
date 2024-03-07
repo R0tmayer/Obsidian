@@ -7,5 +7,5 @@
 ## Publish
 
 Настройки для паблиша:
-![[Publish PortalDB.png|675]]
+![[(img) Publish PortalDB.png|675]]
 
