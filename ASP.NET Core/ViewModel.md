@@ -13,16 +13,18 @@ public class MyController : Controller
 {
 	public IActionResult Index(int? id)
 	{
-		var phones = new  IEnumerable<Phone>...
-		var companies = new  IEnumerable<Company>...
-		var model = new ProductDataViewModel { Product = product };
+		var phones = new IEnumerable<Phone>...
+		var companies = new IEnumerable<Company>...
+		var model = new MyViewModel { Phones = phone, Companies = companies };
 		return View(model);
 	}
 }
 ```
-Во [[View]] потребуется указать ссылку на ViewModel
+Во [[View]] потребуется указать ссылку на MyViewModel
 ```csharp
-@model ProductViewModel
+@model MyViewModel
+
+@ if (Model.Phones ... Model.Companies)
 ```
 
 >[!hint]- Передача простой модели
