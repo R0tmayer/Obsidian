@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ASP.NET Core.md",
+                "file": "ASP.NET Core/ViewModel.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ViewModel.md",
+                "file": "Getting Started.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ViewModel.md",
+                "file": "ASP.NET Core/ViewModel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ViewModel.md",
+                "file": "ASP.NET Core/ViewModel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ViewModel.md"
+                "file": "ASP.NET Core/ViewModel.md"
               }
             }
           },
@@ -160,25 +159,25 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Меню быстрого перехода": false,
-      "graph:Граф": false,
-      "canvas:Создать новый холст": false,
-      "daily-notes:Сегодняшняя заметка": false,
-      "templates:Вставить шаблон": false,
-      "command-palette:Открыть палитру команд": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
     }
   },
-  "active": "e8dea8dbd1031eac",
+  "active": "cd6a9f10890e6a93",
   "lastOpenFiles": [
-    "ASP.NET Core.md",
-    "ViewModel.md",
-    "Hotkeys.md",
+    "ASP.NET Core/ASP.NET Core.md",
     "Getting Started.md",
     "Examples.md",
+    "ASP.NET Core/ViewModel.md",
+    "ASP.NET Core",
+    "Hotkeys.md",
     "Sources/(img) Publish PortalDB.png",
     "DeltaLeasing/Test Databases.md",
     "DeltaLeasing/PortalDB.md",
-    "Без названия",
     "DeltaLeasing",
     "Sources"
   ]

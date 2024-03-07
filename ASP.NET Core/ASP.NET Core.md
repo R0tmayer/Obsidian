@@ -1,4 +1,4 @@
-При передаче из [[Controller]] во [[View]] простой [[DomainModel]] или List<[[DomainModel]]>, достаточно просто написать:
+При передаче из [[Controller]] во [[View]] простой [[DomainModel]] или List<[[DomainModel]]>, достаточно просто написать: ^303d1e
 
 > ProductController.cs
 ``` csharp
@@ -8,6 +8,11 @@ public IActionResult Index(int? id)
 	return View(product);
 }
 ```
+
+^bf109b
+
+
+
 Тогда во [[View]] достаточно просто обратиться к Model:
 
 > Views/Product/Index.cshtml
@@ -20,6 +25,9 @@ else
 	Model.Name
 }
 ```
+
+^9b5e6a
+
 Если во [[View]] передаём List<[[DomainModel]]>, то аналогично:
 ``` csharp
 @if (Model is null || Model.Count == 0)
