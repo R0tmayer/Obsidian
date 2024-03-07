@@ -21,6 +21,18 @@
             }
           },
           {
+            "id": "534761a5dd75ec1c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DeltaLeasing/SQL Scripts.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "e8dea8dbd1031eac",
             "type": "leaf",
             "state": {
@@ -32,7 +44,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -61,7 +74,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "test",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,8 +91,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -99,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DeltaLeasing/Test Databases.md",
+                "file": "DeltaLeasing/SQL Scripts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DeltaLeasing/Test Databases.md",
+                "file": "DeltaLeasing/SQL Scripts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DeltaLeasing/Test Databases.md"
+                "file": "DeltaLeasing/SQL Scripts.md"
               }
             }
           },
@@ -168,11 +180,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cd6a9f10890e6a93",
+  "active": "534761a5dd75ec1c",
   "lastOpenFiles": [
+    "DeltaLeasing/SQL Scripts.md",
+    "Sources/ВЫДАТЬ ПРАВО.sql",
+    "ВЫДАТЬ ПРАВО.sql",
+    "DeltaLeasing/Test Databases.md",
+    "DeltaLeasing/SQL Scripts/SQL Scripts.md",
+    "DeltaLeasing/SQL Scripts",
     "ASP.NET Core/ViewModel.md",
     "DeltaLeasing/PortalDB.md",
-    "DeltaLeasing/Test Databases.md",
     "ASP.NET Core/ASP.NET Core.md",
     "Getting Started.md",
     "Examples.md",
