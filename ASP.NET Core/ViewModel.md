@@ -22,7 +22,7 @@ public class MyController : Controller
 ```
 Во [[View]] потребуется указать ссылку на MyViewModel
 ```csharp
-@model MyViewModel
+@model IndexViewModel
 
 @ if (Model.Phones ... Model.Companies)
 ```
