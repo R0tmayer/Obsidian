@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "035629558f16606d",
+            "id": "cd6a9f10890e6a93",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,18 +20,19 @@
             }
           },
           {
-            "id": "cd6a9f10890e6a93",
+            "id": "e8dea8dbd1031eac",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hotkeys.md",
-                "mode": "preview",
+                "file": "ViewModel.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ASP.NET Core.md",
+                "file": "ViewModel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ASP.NET Core.md",
+                "file": "ViewModel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ASP.NET Core.md"
+                "file": "ViewModel.md"
               }
             }
           },
@@ -167,15 +168,16 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "035629558f16606d",
+  "active": "e8dea8dbd1031eac",
   "lastOpenFiles": [
+    "ASP.NET Core.md",
+    "ViewModel.md",
+    "Hotkeys.md",
     "Getting Started.md",
     "Examples.md",
-    "ASP.NET Core.md",
     "Sources/(img) Publish PortalDB.png",
     "DeltaLeasing/Test Databases.md",
     "DeltaLeasing/PortalDB.md",
-    "Hotkeys.md",
     "Без названия",
     "DeltaLeasing",
     "Sources"
