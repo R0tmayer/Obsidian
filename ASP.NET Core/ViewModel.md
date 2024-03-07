@@ -27,6 +27,22 @@ public class MyController : Controller
 @ if (Model.Phones ... Model.Companies)
 ```
 
->[!hint]- Передача простой модели
->
-Если требуется передать просто модель или лист, то используй ![[ASP.NET Core#^bf109b]] ![[ASP.NET Core#^9b5e6a]]
+> [!note]- Передача простой модели
+> Если требуется передать просто модель или List (без ViewModel):
+> ``` csharp
+> public IActionResult Index(int? id)
+> {
+> 	var product = _productService.GetById(id);
+> 	return View(product);
+> }
+> ```
+> ```csharp
+> @if(Model is null)
+> {}
+> else
+> {
+> 	Model.Id
+> 	Model.Name
+> }
+> ```
+

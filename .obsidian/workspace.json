@@ -13,9 +13,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ASP.NET Core/ASP.NET Core.md",
-                "mode": "source",
-                "source": false
+                "file": "ASP.NET Core/ViewModel.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": true
               }
             }
           },
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ASP.NET Core/ASP.NET Core.md",
+                "file": "ASP.NET Core/ViewModel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ASP.NET Core/ASP.NET Core.md",
+                "file": "ASP.NET Core/ViewModel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ASP.NET Core/ASP.NET Core.md"
+                "file": "ASP.NET Core/ViewModel.md"
               }
             }
           },
@@ -168,14 +169,14 @@
   },
   "active": "cd6a9f10890e6a93",
   "lastOpenFiles": [
-    "ASP.NET Core/ViewModel.md",
     "ASP.NET Core/ASP.NET Core.md",
+    "ASP.NET Core/ViewModel.md",
+    "DeltaLeasing/Test Databases.md",
     "Getting Started.md",
     "Examples.md",
-    "ASP.NET Core",
     "Hotkeys.md",
+    "ASP.NET Core",
     "Sources/(img) Publish PortalDB.png",
-    "DeltaLeasing/Test Databases.md",
     "DeltaLeasing/PortalDB.md",
     "DeltaLeasing",
     "Sources"
