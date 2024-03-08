@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "98984a8feb15a6e7",
+        "id": "f19ab2b22b5e7941",
         "type": "tabs",
         "children": [
           {
-            "id": "035629558f16606d",
+            "id": "87c9d1af9ac5bd00",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ASP.NET Core/ViewModel.md",
+                "file": "IEnumerable.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "dc957e041f410e4f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ASP.NET Core/Collections.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ASP.NET Core/Collections.md",
+                "file": "IEnumerable.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ASP.NET Core/Collections.md",
+                "file": "IEnumerable.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ASP.NET Core/Collections.md"
+                "file": "IEnumerable.md"
               }
             }
           },
@@ -167,10 +154,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dc957e041f410e4f",
+  "active": "87c9d1af9ac5bd00",
   "lastOpenFiles": [
     "ASP.NET Core/ViewModel.md",
     "ASP.NET Core/Collections.md",
+    "IEnumerable.md",
     "Hotkeys.md",
     "Getting Started.md",
     "Examples.md",

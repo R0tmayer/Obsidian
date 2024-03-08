@@ -40,6 +40,11 @@
       ]
     },
     {
+      "id": "editing-toolbar:underline",
+      "name": "Editing Toolbar: Toggle underline",
+      "icon": "underline-glyph"
+    },
+    {
       "id": "editing-toolbar:editor:toggle-blockquote",
       "name": "Toggle blockquote",
       "icon": "quote-glyph"
@@ -88,7 +93,7 @@
   "cMenuBottomValue": 4.25,
   "cMenuNumRows": 3,
   "cMenuWidth": 134,
-  "cMenuFontColor": "#2DC26B",
+  "cMenuFontColor": "#ffffff",
   "cMenuBackgroundColor": "#b1ffff",
   "autohide": false,
   "custom_bg1": "#FFB78B8C",
