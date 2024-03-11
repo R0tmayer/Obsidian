@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "98984a8feb15a6e7",
+        "id": "f19ab2b22b5e7941",
         "type": "tabs",
         "children": [
           {
-            "id": "e8dea8dbd1031eac",
+            "id": "87c9d1af9ac5bd00",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "DotNet/Collections.md",
-                "mode": "preview",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "acd4c35dfa8c3aad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bootstrap.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 224.50260543823242
+    "width": 200
   },
   "right": {
     "id": "64d84ec454917d98",
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DotNet/Collections.md",
+                "file": "Bootstrap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DotNet/Collections.md",
+                "file": "Bootstrap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DotNet/Collections.md"
+                "file": "Bootstrap.md"
               }
             }
           },
@@ -154,32 +167,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e8dea8dbd1031eac",
+  "active": "acd4c35dfa8c3aad",
   "lastOpenFiles": [
-    "DotNet/IEnumerable.md",
     "DotNet/Collections.md",
-    "Examples.md",
+    "Bootstrap.md",
+    "FrontEnd",
+    "DotNet/IEnumerable.md",
     "Other/MacOS.md",
     "Other/Hotkeys.md",
     "Other/Getting Started.md",
+    "Other/Examples.md",
     "Other",
-    "DotNet/ASP.NET Core/ViewModel.md",
-    "DotNet/ASP.NET Core",
     "DotNet",
-    "Sources/(img) Publish PortalDB.png",
-    "DeltaLeasing/Test Databases.md",
-    "DeltaLeasing/SQL Scripts.md",
-    "Sources/ВЫДАТЬ ПРАВО.sql",
-    "ВЫДАТЬ ПРАВО.sql",
-    "DeltaLeasing/SQL Scripts/SQL Scripts.md",
-    "DeltaLeasing/SQL Scripts",
-    "ASP.NET Core/ViewModel.md",
-    "DeltaLeasing/PortalDB.md",
-    "ASP.NET Core/ASP.NET Core.md",
-    "Getting Started.md",
-    "Hotkeys.md",
-    "ASP.NET Core",
-    "DeltaLeasing",
-    "Sources"
+    "DotNet/ASP.NET Core/ViewModel.md",
+    "DotNet/ASP.NET Core"
   ]
 }
