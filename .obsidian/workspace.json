@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "87c9d1af9ac5bd00",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DotNet/Collections.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "acd4c35dfa8c3aad",
             "type": "leaf",
             "state": {
@@ -31,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -169,11 +156,16 @@
   },
   "active": "acd4c35dfa8c3aad",
   "lastOpenFiles": [
-    "Sources/bs_cols.png",
+    "Sources/bs_cols_1.png",
+    "Sources/bs_cols_2.png",
     "FrontEnd/Bootstrap.md",
+    "Sources/bs_cols_3.png",
+    "DotNet/Collections.md",
+    "Sources/Pasted image 20240311220851.png",
+    "Sources/Pasted image 20240311220816.png",
+    "Sources/Pasted image 20240311220858.png",
     "Pasted image 20240311215529.png",
     "Sources",
-    "DotNet/Collections.md",
     "FrontEnd",
     "DotNet/IEnumerable.md",
     "Other/MacOS.md",
