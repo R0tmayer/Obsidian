@@ -45,7 +45,7 @@
 >   </div>
 > </div>
 > ```
-> ![[bs_cols_1.png]]
+> ![[bs_col_1.png]]
 
 `<div class="col-auto>TEST</div>` - автоширина по длине текста 
 
@@ -53,10 +53,10 @@
 > [!NOTE]- Ширина колонки под конкретный лейаут
 > 
 > ```html
-> <div class="col-md-4 col-8">
+> <div class="col-4 col-sm-5 col-md-6 col-lg-7 col-xl-8">
 >   Column
 > </div>
 > ```
-> 
-> ![[bs_cols_2.png]] 
-> ![[bs_cols_3.png]]
+> ![[bs_col_2.png]]
+> ![[bs_col-sm-5.png]]
+> ![[bs_col-md-6.png]]

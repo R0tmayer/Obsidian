@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "f19ab2b22b5e7941",
+        "id": "e60c116c8008f313",
         "type": "tabs",
         "children": [
           {
-            "id": "acd4c35dfa8c3aad",
+            "id": "580dc125efd98d75",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "FrontEnd/Bootstrap.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -154,12 +154,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "acd4c35dfa8c3aad",
+  "active": "580dc125efd98d75",
   "lastOpenFiles": [
-    "Sources/bs_cols_1.png",
-    "Sources/bs_cols_2.png",
+    "Sources/bs_col-md-6.png",
     "FrontEnd/Bootstrap.md",
-    "Sources/bs_cols_3.png",
+    "Sources/bs_col-sm-5.png",
+    "Sources/bs_col_1.png",
+    "Sources/bs_col_2.png",
+    "Sources/Pasted image 20240311222115.png",
     "DotNet/Collections.md",
     "Sources/Pasted image 20240311220851.png",
     "Sources/Pasted image 20240311220816.png",
