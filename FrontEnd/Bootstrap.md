@@ -60,3 +60,25 @@
 > ![[bs_col_2.png]]
 > ![[bs_col-sm-5.png]]
 > ![[bs_col-md-6.png]]
+> ![[bs_col-xl-8.png]]
+
+
+> [!NOTE]- Сдвиг колонок
+> ```html
+> <div class="container">
+> 	<div class="row" style="margin-top: 10px;">
+> 		<div class="col offset-2">
+> 		</div>
+> 		<div class="col">
+> 		</div>
+> 		<div class="col offset-3">
+> 		</div>
+> 		<div class="col">
+> 		</div>
+> 	</div>
+> </div>
+> ```
+> ![[bs_offset-2.png]]
+
+`gy-5` - gap по Y
+`gx-5` - gap по X
