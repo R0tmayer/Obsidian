@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d9e2337a02c21070",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL/SQL Summary.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL/SQL Summary.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL/SQL Summary.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -167,10 +179,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d040c17695d98f8c",
+  "active": "d9e2337a02c21070",
   "lastOpenFiles": [
-    "DotNet/Collections.md",
+    "conflict-files-obsidian-git.md",
     "SQL/SQL Summary.md",
+    "Sources/bs_offset-2.png",
+    "Sources/bs_col_2.png",
+    "Sources/bs_col_1.png",
+    "Sources/bs_col-xl-8.png",
+    "Sources/bs_col-sm-5.png",
+    "Sources/bs_col-nested.png",
+    "Sources/bs_col-md-6.png",
+    "FrontEnd/Bootstrap.md",
+    "FrontEnd",
+    "DotNet/Collections.md",
     "SQL",
     "DotNet/IEnumerable.md",
     "Examples.md",
@@ -194,7 +216,6 @@
     "Getting Started.md",
     "Hotkeys.md",
     "ASP.NET Core",
-    "DeltaLeasing",
-    "Sources"
+    "DeltaLeasing"
   ]
 }
