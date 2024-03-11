@@ -23,28 +23,15 @@
             "id": "d040c17695d98f8c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SQL/SQL Summary.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d9e2337a02c21070",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
                 "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
+                "staged": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +97,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +113,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,9 +134,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "conflict-files-obsidian-git.md"
-              }
+              "state": {}
             }
           },
           {
@@ -179,7 +162,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d9e2337a02c21070",
+  "active": "d040c17695d98f8c",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "SQL/SQL Summary.md",
