@@ -133,12 +133,19 @@
 ```
 
 `table` - bootstrap таблица
-`table-info` - покрасить в синий
-`table-stripped` - чередующийся бело-серый свет
+
 ```html
-<tr class="table-warning">
+<table class="table table-info"></table> // покрасить таблицу
 ```
 
 ```html
-<td class="table-info">Horizon</td> // покраситт 
+<tr class="table-warning"></tr> // покрасить строку
+```
+
+```html
+<td class="table-info">Horizon</td> // покрасить ячейку
+```
+
+```html
+<table class="table table-hover"></table> // активируется при наведении
 ```
