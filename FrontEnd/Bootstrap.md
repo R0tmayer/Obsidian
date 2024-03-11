@@ -82,3 +82,63 @@
 
 `gy-5` - gap по Y
 `gx-5` - gap по X
+
+> [!NOTE]- Вложенные колонки
+> ```html
+> <div class="container">
+> 	<div class="row" style="margin-top: 10px;">
+> 		<div class="col">
+> 			<div class="row gx-0">
+> 				<div class="col">
+> 				</div>
+> 				<div class="col">
+> 				</div>
+> 			</div>
+> 		</div>
+> 		<div class="col">
+> 		</div>
+> 		<div class="col">
+> 		</div>
+> 		<div class="col">
+> 		</div>
+> 	</div>
+> </div>
+> ```
+> ![[bs_col-nested.png]]
+
+
+### Tables
+
+```html
+<table class="table table-info">
+	<thead>
+		<tr>
+			<td>Name</td>
+			<td>Price</td>
+		</td>
+	</thead>
+	<tbdoy>
+		<tr>
+			<td>Horizon</td>
+			<td>49.99</td>
+		</tr>
+		<tr>
+			<td>God of War</td>
+			<td>39.99</td>
+		</tr>
+		<tr>
+			<td>FIFA 2023</td>
+			<td>29.99</td>
+		</tr>
+```
+
+`table` - bootstrap таблица
+`table-info` - покрасить в синий
+`table-stripped` - чередующийся бело-серый свет
+```html
+<tr class="table-warning">
+```
+
+```html
+<td class="table-info">Horizon</td> // покраситт 
+```
