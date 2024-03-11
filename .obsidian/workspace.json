@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d040c17695d98f8c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SQL/SQL Summary.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DotNet/Collections.md",
+                "file": "SQL/SQL Summary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DotNet/Collections.md",
+                "file": "SQL/SQL Summary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DotNet/Collections.md"
+                "file": "SQL/SQL Summary.md"
               }
             }
           },
@@ -154,11 +167,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "abf30d1de51e330b",
+  "active": "d040c17695d98f8c",
   "lastOpenFiles": [
+    "DotNet/Collections.md",
+    "SQL/SQL Summary.md",
     "SQL",
     "DotNet/IEnumerable.md",
-    "DotNet/Collections.md",
     "Examples.md",
     "Other/MacOS.md",
     "Other/Hotkeys.md",
