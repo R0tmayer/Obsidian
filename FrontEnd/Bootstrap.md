@@ -24,20 +24,26 @@
 ### Row
 
 Теперь нет смысла писать `display: flexbox`. Достаточно написать 
-`div class="row"` и `container` поделится на **12** равных колонок (под капотом применяется flexbox). 
+`div class="row"` и `container` поделится на 12 равных колонок (под капотом применяется flexbox). 
 
-```html
-<div class="container text-center">
-  <div class="row">
-    <div class="col">
-      Column
-    </div>
-    <div class="col">
-      Column
-    </div>
-    <div class="col">
-      Column
-    </div>
-  </div>
-</div>
-```
+> [!NOTE]- Колонки разной ширины
+> ```html
+> <div class="container text-center">
+>   <div class="row">
+>     <div class="col-1">
+>       Column
+>     </div>
+>     <div class="col-2">
+>       Column
+>     </div>
+>     <div class="col-3">
+>       Column
+>     </div>
+> 	<div class="col-4">
+>       Column
+>     </div>
+>   </div>
+> </div>
+> ```
+> ![[bs_cols.png]]
+
