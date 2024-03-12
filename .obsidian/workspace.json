@@ -23,11 +23,9 @@
             "id": "d040c17695d98f8c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "FrontEnd/Bootstrap.md",
-                "mode": "preview",
-                "source": false
+                "file": "Sources/sql_cart-structure.png"
               }
             }
           }
@@ -98,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FrontEnd/Bootstrap.md",
+                "file": "Sources/sql_cart-structure.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FrontEnd/Bootstrap.md",
+                "file": "Sources/sql_cart-structure.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FrontEnd/Bootstrap.md"
+                "file": "Sources/sql_cart-structure.png"
               }
             }
           },
@@ -170,6 +168,8 @@
   "active": "d040c17695d98f8c",
   "lastOpenFiles": [
     "SQL/SQL Summary.md",
+    "Sources/sql_cart-structure.png",
+    "FrontEnd/Bootstrap.md",
     "conflict-files-obsidian-git.md",
     "Sources/bs_offset-2.png",
     "Sources/bs_col_2.png",
@@ -178,7 +178,6 @@
     "Sources/bs_col-sm-5.png",
     "Sources/bs_col-nested.png",
     "Sources/bs_col-md-6.png",
-    "FrontEnd/Bootstrap.md",
     "FrontEnd",
     "DotNet/Collections.md",
     "SQL",

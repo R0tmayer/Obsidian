@@ -18,3 +18,6 @@ BEGIN
 	SET @Variable = 1
 END
 ```
+
+Хороший подход для структуры корзины в БД:
+![[sql_cart-structure.png]]
