@@ -18,19 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "d040c17695d98f8c",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Sources/sql_cart-structure.png"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sources/sql_cart-structure.png",
+                "file": "DotNet/Collections.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sources/sql_cart-structure.png",
+                "file": "DotNet/Collections.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sources/sql_cart-structure.png"
+                "file": "DotNet/Collections.md"
               }
             }
           },
@@ -165,10 +154,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d040c17695d98f8c",
+  "active": "e8dea8dbd1031eac",
   "lastOpenFiles": [
-    "SQL/SQL Summary.md",
     "Sources/sql_cart-structure.png",
+    "SQL/SQL Summary.md",
     "FrontEnd/Bootstrap.md",
     "conflict-files-obsidian-git.md",
     "Sources/bs_offset-2.png",
