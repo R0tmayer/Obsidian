@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DotNet/Collections.md",
+                "file": "SQL/SQL Summary.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DotNet/Collections.md",
+                "file": "SQL/SQL Summary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DotNet/Collections.md",
+                "file": "SQL/SQL Summary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DotNet/Collections.md"
+                "file": "SQL/SQL Summary.md"
               }
             }
           },
@@ -156,6 +156,7 @@
   },
   "active": "e8dea8dbd1031eac",
   "lastOpenFiles": [
+    "DotNet/Collections.md",
     "Sources/sql_cart-structure.png",
     "SQL/SQL Summary.md",
     "FrontEnd/Bootstrap.md",
@@ -168,7 +169,6 @@
     "Sources/bs_col-nested.png",
     "Sources/bs_col-md-6.png",
     "FrontEnd",
-    "DotNet/Collections.md",
     "SQL",
     "DotNet/IEnumerable.md",
     "Examples.md",
