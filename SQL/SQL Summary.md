@@ -20,4 +20,4 @@ END
 ```
 
 Хороший подход для структуры корзины в БД:
-![[sql_cart-structure.png|775]]
+![[sql_cart-structure.png|825]]
