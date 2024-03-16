@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "картин",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -154,7 +155,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "155375fc72eda5e3",
+  "active": "c765bc1e3cf553e9",
   "lastOpenFiles": [
     "Sources/bs_col-nested.png",
     "FrontEnd/Bootstrap.md",
