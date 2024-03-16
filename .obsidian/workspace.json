@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FrontEnd/Bootstrap.md",
+                "file": "Other/MacOS.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "картин",
+                "query": "~",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FrontEnd/Bootstrap.md",
+                "file": "Other/MacOS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FrontEnd/Bootstrap.md",
+                "file": "Other/MacOS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FrontEnd/Bootstrap.md"
+                "file": "Other/MacOS.md"
               }
             }
           },
@@ -155,10 +155,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c765bc1e3cf553e9",
+  "active": "155375fc72eda5e3",
   "lastOpenFiles": [
-    "Sources/bs_col-nested.png",
     "FrontEnd/Bootstrap.md",
+    "Sources/bs_col-nested.png",
     "Other/MacOS.md",
     "Sources/bs_col_1.png",
     "Sources/bs_offset-2.png",
