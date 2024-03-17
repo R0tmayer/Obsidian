@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "dd5e854777fd2710",
+        "id": "98984a8feb15a6e7",
         "type": "tabs",
         "children": [
           {
-            "id": "155375fc72eda5e3",
+            "id": "e8dea8dbd1031eac",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DotNet/ASP.NET Core/DI-контейнер.md",
-                "mode": "preview",
+                "file": "DotNet/ASP.NET Core/DI.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "89fe8afdbe718c31",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HTTP.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 224.50260543823242
   },
   "right": {
     "id": "64d84ec454917d98",
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DotNet/ASP.NET Core/DI-контейнер.md",
+                "file": "HTTP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DotNet/ASP.NET Core/DI-контейнер.md",
+                "file": "HTTP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DotNet/ASP.NET Core/DI-контейнер.md"
+                "file": "HTTP.md"
               }
             }
           },
@@ -142,7 +155,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -154,35 +168,48 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "155375fc72eda5e3",
+  "active": "89fe8afdbe718c31",
   "lastOpenFiles": [
     "DotNet/ASP.NET Core/DI.md",
-    "DotNet/ASP.NET Core/ViewModel.md",
-    "DotNet/ASP.NET Core/DI-контейнер.md",
-    "Other/Getting Started.md",
+    "HTTP.md",
+    "SQL/SQL Summary.md",
     "Sources/Pasted image 20240317150804.png",
+    "DotNet/ASP.NET Core/DI-контейнер.md",
+    "DotNet/Collections.md",
+    "Sources/sql_cart-structure.png",
     "FrontEnd/Bootstrap.md",
     "conflict-files-obsidian-git.md",
-    "Other/MacOS.md",
-    "Sources/sql_cart-structure.png",
-    "SQL/SQL Summary.md",
-    "SQL",
-    "Sources/bs_col-nested.png",
-    "Sources/bs_col_1.png",
     "Sources/bs_offset-2.png",
-    "Sources/bs_col-xl-8.png",
-    "Sources/bs_col-md-6.png",
-    "Sources/bs_col-sm-5.png",
     "Sources/bs_col_2.png",
-    "Sources/Pasted image 20240311222115.png",
-    "DotNet/Collections.md",
-    "Sources",
+    "Sources/bs_col_1.png",
+    "Sources/bs_col-xl-8.png",
+    "Sources/bs_col-sm-5.png",
+    "Sources/bs_col-nested.png",
+    "Sources/bs_col-md-6.png",
     "FrontEnd",
+    "SQL",
     "DotNet/IEnumerable.md",
+    "Examples.md",
+    "Other/MacOS.md",
     "Other/Hotkeys.md",
-    "Other/Examples.md",
+    "Other/Getting Started.md",
     "Other",
+    "DotNet/ASP.NET Core/ViewModel.md",
+    "DotNet/ASP.NET Core",
     "DotNet",
-    "DotNet/ASP.NET Core"
+    "Sources/(img) Publish PortalDB.png",
+    "DeltaLeasing/Test Databases.md",
+    "DeltaLeasing/SQL Scripts.md",
+    "Sources/ВЫДАТЬ ПРАВО.sql",
+    "ВЫДАТЬ ПРАВО.sql",
+    "DeltaLeasing/SQL Scripts/SQL Scripts.md",
+    "DeltaLeasing/SQL Scripts",
+    "ASP.NET Core/ViewModel.md",
+    "DeltaLeasing/PortalDB.md",
+    "ASP.NET Core/ASP.NET Core.md",
+    "Getting Started.md",
+    "Hotkeys.md",
+    "ASP.NET Core",
+    "DeltaLeasing"
   ]
 }
