@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DotNet/ASP.NET Core/DI.md",
+                "file": "DotNet/ASP.NET Core/DI-контейнер.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DotNet/ASP.NET Core/DI.md",
+                "file": "DotNet/ASP.NET Core/DI-контейнер.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DotNet/ASP.NET Core/DI.md",
+                "file": "DotNet/ASP.NET Core/DI-контейнер.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DotNet/ASP.NET Core/DI.md"
+                "file": "DotNet/ASP.NET Core/DI-контейнер.md"
               }
             }
           },
@@ -157,9 +157,9 @@
   },
   "active": "155375fc72eda5e3",
   "lastOpenFiles": [
-    "DotNet/ASP.NET Core/DI-контейнер.md",
-    "DotNet/ASP.NET Core/DI.md",
     "DotNet/ASP.NET Core/ViewModel.md",
+    "DotNet/ASP.NET Core/DI.md",
+    "DotNet/ASP.NET Core/DI-контейнер.md",
     "Other/Getting Started.md",
     "Sources/Pasted image 20240317150804.png",
     "FrontEnd/Bootstrap.md",

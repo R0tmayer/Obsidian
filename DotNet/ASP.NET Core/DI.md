@@ -13,12 +13,9 @@ builder.Services.AddScoped<IProductService, ProductService>();
 builder.Services.AddScoped<ICartService, CartService>();
 ```
 
-Внутри AddScoped сервис добавляется в лист [[DI-контейнер#^5011f3]] с указанием enum - Scoped
+Внутри AddScoped сервис добавляется в лист [[DI-контейнер#^5011f3]] с указанием enum - Scoped (аналогично AddSingleton/AddTransient)
 ```csharp
-public static IServiceCollection AddScoped(  
-this IServiceCollection services,  
-Type serviceType,  
-[DynamicallyAccessedMembers(DynamicallyAccessedMemberTypes.PublicConstructors)] Type implementationType)  
+public static IServiceCollection AddScoped(this IServiceCollection services, Type serviceType, Type implementationType)  
 {  
 	ThrowHelper.ThrowIfNull(services);  
 	ThrowHelper.ThrowIfNull(serviceType);  
@@ -44,14 +41,66 @@ public HomeController(IProductService productService)
 2. Фреймворк создаёт новый инстанс контроллера (тут DI ещё не используется)
 3. Начинает работать рефлексия:
 
-
-
 ```csharp
 // получаем конструктор контроллера
 var dependency = GetDependency(type)
 var ctor = dependency.GetConstructors().Single();
 
 // получаем параметры конструктора
-constructor.GetParameters().ToArray();
+var parameters = ctor.GetParameters().ToArray();
+
+// создаём нужные инстансы
+
+if (parameters.Length > 0)
+{
+	var parametersImpl = new object[parameters.Length];
+
+	for (int i = 0; i < parameters.Length; i++)
+	{
+		parametersImpl[i] =  GetService(parameters[i].ParameterType);
+	}
+
+	return Activator.CreateInstance(dependency, parametersImpl);
+}
+
+return Activator.CreateInstance(dependency);
 ```
 
+После создания инстансы передаются в конструктор контроллера.
+
+Слово Inject (инъекция, укол, вспрыск) - можно объяснить на примере
+
+```csharp
+public Person(Service service)
+
+// в некоторых библиотеках можно встретить следующее
+public Person([Inject]MyService service)
+```
+Пёрсону для существования жизненно необходим сервис. Поэтому мы берём из контейнера Service и втыкаем в пёрсона
+
+### 3. Жизненный цикл зависимости
+
+#### AddSingleton
+Создаётся один раз при старте проекта и является общим (как будто статический класс)
+#### AddScoped
+В рамках одного запроса если мы много раз инжектим MyService в другие классы, то MyService будет всегда ссылаться на один и тот же объект в памяти (можно использовать как репозиторий для подключения к БД):
+   
+```csharp
+builder.Services.AddScoped<MyService service>();
+
+// везде будет ссылка на один и тот же объект в памяти
+public Person(MyService service)
+public Dog(MyService service)
+public Cat(MyService service)
+```
+
+#### AddTransient
+```csharp
+builder.Services.AddTransient<MyService service>();
+
+// у Person Cat Dog будут ссылки на разные объекты MyService
+public Person(MyService service)
+public Dog(MyService service)
+public Cat(MyService service)
+```
+При каждой инъекции будет создаваться новый инстанс MyService. Таким образом каждый раз будет выделяться место в памяти под новый объект MyService
