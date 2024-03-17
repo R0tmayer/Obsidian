@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DI-контейнер.md",
+                "file": "DotNet/ASP.NET Core/DI.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DI-контейнер.md",
+                "file": "DotNet/ASP.NET Core/DI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DI-контейнер.md",
+                "file": "DotNet/ASP.NET Core/DI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DI-контейнер.md"
+                "file": "DotNet/ASP.NET Core/DI.md"
               }
             }
           },
@@ -142,7 +142,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -156,8 +157,10 @@
   },
   "active": "155375fc72eda5e3",
   "lastOpenFiles": [
+    "DotNet/ASP.NET Core/DI-контейнер.md",
     "DotNet/ASP.NET Core/DI.md",
-    "DI-контейнер.md",
+    "DotNet/ASP.NET Core/ViewModel.md",
+    "Other/Getting Started.md",
     "Sources/Pasted image 20240317150804.png",
     "FrontEnd/Bootstrap.md",
     "conflict-files-obsidian-git.md",
@@ -178,11 +181,9 @@
     "FrontEnd",
     "DotNet/IEnumerable.md",
     "Other/Hotkeys.md",
-    "Other/Getting Started.md",
     "Other/Examples.md",
     "Other",
     "DotNet",
-    "DotNet/ASP.NET Core/ViewModel.md",
     "DotNet/ASP.NET Core"
   ]
 }
