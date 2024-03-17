@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "DotNet/ASP.NET Core/DI-контейнер.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -142,8 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -157,8 +156,8 @@
   },
   "active": "155375fc72eda5e3",
   "lastOpenFiles": [
-    "DotNet/ASP.NET Core/ViewModel.md",
     "DotNet/ASP.NET Core/DI.md",
+    "DotNet/ASP.NET Core/ViewModel.md",
     "DotNet/ASP.NET Core/DI-контейнер.md",
     "Other/Getting Started.md",
     "Sources/Pasted image 20240317150804.png",

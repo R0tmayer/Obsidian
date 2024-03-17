@@ -5,7 +5,6 @@ public IServiceCollection Services => _serviceCollection;
 
 public class ServiceCollection : IServiceCollection
 {
-
 }
 
 public interface IServiceCollection : IList<ServiceDescriptor>  
@@ -18,7 +17,7 @@ ServiceDescriptor - это конкретно то, что лежит в DI-ко
 
 serviceType - тип интерфейса
 implementationType - тип реализации
-lifetime - 
+lifetime - [[DI#3. Жизненный цикл зависимости]]
 
 ```csharp
 public class ServiceDescriptor  
@@ -28,4 +27,12 @@ public class ServiceDescriptor
 	{  
 	}
 }
+```
+Например:
+```csharp
+builder.Services.AddScoped<IProductService, ProductService>();
+
+serviceType - IProductService
+implementationType - ProductService
+lifetime - Scoped
 ```
