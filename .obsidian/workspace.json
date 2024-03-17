@@ -13,13 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Other/MacOS.md",
-                "mode": "source",
+                "file": "FrontEnd/Bootstrap.md",
+                "mode": "preview",
                 "source": false
               }
             }
+          },
+          {
+            "id": "df0d4e460c04697c",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": "SQL/SQL Summary.md",
+                "staged": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "~",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +77,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +97,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Other/MacOS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +113,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Other/MacOS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +134,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Other/MacOS.md"
-              }
+              "state": {}
             }
           },
           {
@@ -155,11 +162,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "155375fc72eda5e3",
+  "active": "df0d4e460c04697c",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "FrontEnd/Bootstrap.md",
-    "Sources/bs_col-nested.png",
     "Other/MacOS.md",
+    "Sources/sql_cart-structure.png",
+    "SQL/SQL Summary.md",
+    "SQL",
+    "Sources/bs_col-nested.png",
     "Sources/bs_col_1.png",
     "Sources/bs_offset-2.png",
     "Sources/bs_col-xl-8.png",
