@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DotNet/ASP.NET Core/DI.md",
+                "file": "DI-контейнер.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DotNet/ASP.NET Core/DI.md",
+                "file": "DI-контейнер.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DotNet/ASP.NET Core/DI.md",
+                "file": "DI-контейнер.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DotNet/ASP.NET Core/DI.md"
+                "file": "DI-контейнер.md"
               }
             }
           },
@@ -156,8 +156,10 @@
   },
   "active": "155375fc72eda5e3",
   "lastOpenFiles": [
-    "FrontEnd/Bootstrap.md",
     "DotNet/ASP.NET Core/DI.md",
+    "DI-контейнер.md",
+    "Sources/Pasted image 20240317150804.png",
+    "FrontEnd/Bootstrap.md",
     "conflict-files-obsidian-git.md",
     "Other/MacOS.md",
     "Sources/sql_cart-structure.png",
@@ -172,7 +174,6 @@
     "Sources/bs_col_2.png",
     "Sources/Pasted image 20240311222115.png",
     "DotNet/Collections.md",
-    "Sources/Pasted image 20240311220851.png",
     "Sources",
     "FrontEnd",
     "DotNet/IEnumerable.md",
