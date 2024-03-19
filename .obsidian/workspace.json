@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "98984a8feb15a6e7",
+        "id": "b21c66a34b693e2e",
         "type": "tabs",
         "children": [
           {
-            "id": "e8dea8dbd1031eac",
+            "id": "deaa4ee7db6cd47d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "DotNet/ASP.NET Core/DI.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ca6e90b7094f7202",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FrontEnd/Vue.js 3.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FrontEnd/Vue.js 3.md",
+                "file": "DotNet/ASP.NET Core/DI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FrontEnd/Vue.js 3.md",
+                "file": "DotNet/ASP.NET Core/DI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FrontEnd/Vue.js 3.md"
+                "file": "DotNet/ASP.NET Core/DI.md"
               }
             }
           },
@@ -168,13 +155,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ca6e90b7094f7202",
+  "active": "deaa4ee7db6cd47d",
   "lastOpenFiles": [
-    "HTTP.md",
-    "FrontEnd/Vue.js 3.md",
+    "SQL/SQL СУБД.md",
     "DotNet/ASP.NET Core/DI.md",
+    "SQL/SQL Tips.md",
+    "FrontEnd/Vue.js 3.md",
+    "HTTP.md",
     "FrontEnd/Untitled",
-    "SQL/SQL Summary.md",
     "Sources/Pasted image 20240317150804.png",
     "DotNet/ASP.NET Core/DI-контейнер.md",
     "DotNet/Collections.md",
