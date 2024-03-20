@@ -109,3 +109,37 @@ import { ref } from 'vue';
 / Создаётся реактивная ссылка на значение 5, сохраняя ее в константе `count`.
 const count = ref(5);
 ```
+
+### Директивы
+
+#### `v-if` 
+Если указать false, то весь div удалиться из DOM
+Null will be cast to false
+```js
+<script setup>
+import { ref } from 'vue';
+const showModal = ref(false);
+</script>
+<template>
+	<main>
+		<div v-if="showModal">
+			TEST
+		</div>
+		<button @click="showModal = true">show</button>
+		<button @click="showModal = false">hide</button>
+	</main>
+</template>
+
+/ false or null - удалиться весь div из DOM
+```
+
+#### `v-show` 
+```js
+<div v-show="true">
+	TEST
+</div>
+
+/ По умолчанию добавляется `style=""`
+/ false or null - `style="display: none;"`
+/ true - `style=""`
+```
