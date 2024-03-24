@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL/SQL Tips.md",
+                "file": "DotNet/ASP.NET Core/ViewModel.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL/SQL Tips.md",
+                "file": "DotNet/ASP.NET Core/ViewModel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL/SQL Tips.md",
+                "file": "DotNet/ASP.NET Core/ViewModel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL/SQL Tips.md"
+                "file": "DotNet/ASP.NET Core/ViewModel.md"
               }
             }
           },
@@ -156,11 +156,12 @@
   },
   "active": "deaa4ee7db6cd47d",
   "lastOpenFiles": [
-    "SQL/SQL СУБД.md",
+    "DotNet/ASP.NET Core/DI.md",
+    "DotNet/ASP.NET Core/ViewModel.md",
     "SQL/SQL Tips.md",
+    "SQL/SQL СУБД.md",
     "FrontEnd/Vue.js.md",
     "FrontEnd/Bootstrap.md",
-    "DotNet/ASP.NET Core/DI.md",
     "HTTP.md",
     "FrontEnd/Untitled",
     "Sources/Pasted image 20240317150804.png",
@@ -183,7 +184,6 @@
     "Other/Hotkeys.md",
     "Other/Getting Started.md",
     "Other",
-    "DotNet/ASP.NET Core/ViewModel.md",
     "DotNet/ASP.NET Core",
     "DotNet",
     "Sources/(img) Publish PortalDB.png",
