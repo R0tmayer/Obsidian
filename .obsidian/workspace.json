@@ -23,38 +23,16 @@
             "id": "09251596a24e53a0",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.11"
-              }
-            }
-          },
-          {
-            "id": "d8f5de790547c531",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "FrontEnd/Bootstrap.md",
+                "file": "DotNet/ASP.NET Core/ViewModel.md",
                 "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a1193f9f031a074e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -120,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "DotNet/ASP.NET Core/ViewModel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "DotNet/ASP.NET Core/ViewModel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "DotNet/ASP.NET Core/ViewModel.md"
               }
             }
           },
@@ -189,17 +167,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a1193f9f031a074e",
+  "active": "09251596a24e53a0",
   "lastOpenFiles": [
     "FrontEnd/Bootstrap.md",
-    "conflict-files-obsidian-git.md",
+    "FrontEnd/Vue.js.md",
     "DotNet/IEnumerable.md",
+    "conflict-files-obsidian-git.md",
     "DotNet/Collections.md",
     "DotNet/ASP.NET Core/ViewModel.md",
     "SQL/SQL СУБД.md",
     "SQL/SQL Tips.md",
     "HTTP.md",
-    "FrontEnd/Vue.js.md",
     "DotNet/ASP.NET Core/DI-контейнер.md",
     "DotNet/ASP.NET Core/DI.md",
     "Other/Getting Started.md",
