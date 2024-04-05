@@ -23,9 +23,11 @@
             "id": "5ee62bd505d1a1ed",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.5.12"
+                "file": "SQL/Dynamic SQL code.md",
+                "mode": "preview",
+                "source": false
               }
             }
           },
@@ -108,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Other/Kafka.md",
+                "file": "SQL/Dynamic SQL code.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Other/Kafka.md",
+                "file": "SQL/Dynamic SQL code.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Other/Kafka.md"
+                "file": "SQL/Dynamic SQL code.md"
               }
             }
           },
@@ -179,6 +181,7 @@
   },
   "active": "5ee62bd505d1a1ed",
   "lastOpenFiles": [
+    "SQL/Dynamic SQL code.md",
     "Other/RabitMq.md",
     "Other/Kafka.md",
     "DotNet/ASP.NET Core/ViewModel.md",
