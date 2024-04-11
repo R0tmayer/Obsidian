@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DotNet/ASP.NET Core/ViewModel.md",
+                "file": "FrontEnd/Bootstrap.md",
                 "mode": "preview",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DotNet/ASP.NET Core/ViewModel.md",
+                "file": "FrontEnd/Bootstrap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DotNet/ASP.NET Core/ViewModel.md",
+                "file": "FrontEnd/Bootstrap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DotNet/ASP.NET Core/ViewModel.md"
+                "file": "FrontEnd/Bootstrap.md"
               }
             }
           },
@@ -169,12 +169,12 @@
   },
   "active": "09251596a24e53a0",
   "lastOpenFiles": [
+    "DotNet/ASP.NET Core/ViewModel.md",
     "FrontEnd/Bootstrap.md",
     "FrontEnd/Vue.js.md",
     "DotNet/IEnumerable.md",
     "conflict-files-obsidian-git.md",
     "DotNet/Collections.md",
-    "DotNet/ASP.NET Core/ViewModel.md",
     "SQL/SQL СУБД.md",
     "SQL/SQL Tips.md",
     "HTTP.md",
