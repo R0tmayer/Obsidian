@@ -151,5 +151,5 @@ const showModal = ref(false);
 Осуществляет двусторонее привязывание. Меняем input - меняется data. Меняем data - меняется input.
 Под капотом выглядит так:
 ```
-v-bind
+<input v-bind:value="message" v-on:input="message = $event.target.value">
 ```
