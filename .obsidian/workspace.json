@@ -36,7 +36,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Other/RabitMq.md",
+                "file": "FrontEnd/Vue.js.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Other/RabitMq.md",
+                "file": "FrontEnd/Vue.js.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Other/RabitMq.md",
+                "file": "FrontEnd/Vue.js.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Other/RabitMq.md"
+                "file": "FrontEnd/Vue.js.md"
               }
             }
           },
@@ -178,13 +178,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "876311cf369e5ade",
+  "active": "61faf691b93e7af9",
   "lastOpenFiles": [
+    "Other/RabitMq.md",
     "conflict-files-obsidian-git.md",
     "Новый текстовый документ.txt",
     "SQL/Dynamic SQL code.md",
     "SQL/SQL СУБД.md",
-    "Other/RabitMq.md",
     "FrontEnd/Vue.js.md",
     "FrontEnd/Bootstrap.md",
     "Other/Kafka.md",

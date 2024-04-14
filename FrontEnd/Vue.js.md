@@ -143,3 +143,13 @@ const showModal = ref(false);
 / false or null - `style="display: none;"`
 / true - `style=""`
 ```
+#### `v-bind`
+Осуществляет односторонее связываение. Меняем input - data не меняется. Меняем data - input меняется.
+Иногда используется вместе с обработчиками, например `v-on:click="myFuntion"`
+
+#### `v-model`
+Осуществляет двусторонее привязывание. Меняем input - меняется data. Меняем data - меняется input.
+Под капотом выглядит так:
+```
+v-bind
+```
