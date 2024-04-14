@@ -146,10 +146,29 @@ const showModal = ref(false);
 #### `v-bind`
 Осуществляет односторонее связываение. Меняем input - data не меняется. Меняем data - input меняется.
 Иногда используется вместе с обработчиками, например `v-on:click="myFuntion"`
+Сокращенно можно писать так `v-bind:count or :count`
+
+Зачастую используется чтобы передать пропсы в дочерний компонент:
+```js
+<script setup>
+	import Foo from './components/Foo.vue'
+	import { ref } from 'vue'
+	
+	const count = ref(0)
+</script>
+
+<template>
+	<Foo v-bind:count="count" />
+	<Foo :count="count" />
+</template>
+```
 
 #### `v-model`
 Осуществляет двусторонее привязывание. Меняем input - меняется data. Меняем data - меняется input.
 Под капотом выглядит так:
-```
-<input v-bind:value="message" v-on:input="message = $event.target.value">
+```html
+<input 
+	v-bind:value="message" 
+	v-on:input="message = $event.target.value"
+>
 ```

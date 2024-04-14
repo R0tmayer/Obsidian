@@ -20,30 +20,19 @@
             }
           },
           {
-            "id": "5ee62bd505d1a1ed",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "staged": true
-              }
-            }
-          },
-          {
             "id": "61faf691b93e7af9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "FrontEnd/Vue.js.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -180,14 +169,14 @@
   },
   "active": "61faf691b93e7af9",
   "lastOpenFiles": [
+    "Other/Kafka.md",
+    "FrontEnd/Vue.js.md",
     "Other/RabitMq.md",
     "conflict-files-obsidian-git.md",
     "Новый текстовый документ.txt",
     "SQL/Dynamic SQL code.md",
     "SQL/SQL СУБД.md",
-    "FrontEnd/Vue.js.md",
     "FrontEnd/Bootstrap.md",
-    "Other/Kafka.md",
     "DotNet/ASP.NET Core/ViewModel.md",
     "DotNet/ASP.NET Core/DI.md",
     "SQL/SQL Tips.md",
