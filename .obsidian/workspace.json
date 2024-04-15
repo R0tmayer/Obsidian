@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Other/Kafka.md",
+                "file": "HTTP.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "61faf691b93e7af9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FrontEnd/Vue.js.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FrontEnd/Vue.js.md",
+                "file": "HTTP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FrontEnd/Vue.js.md",
+                "file": "HTTP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FrontEnd/Vue.js.md"
+                "file": "HTTP.md"
               }
             }
           },
@@ -167,20 +154,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "61faf691b93e7af9",
+  "active": "deaa4ee7db6cd47d",
   "lastOpenFiles": [
-    "Other/Kafka.md",
+    "SQL/Dynamic SQL code.md",
     "FrontEnd/Vue.js.md",
+    "HTTP.md",
+    "Other/Kafka.md",
     "Other/RabitMq.md",
     "conflict-files-obsidian-git.md",
     "Новый текстовый документ.txt",
-    "SQL/Dynamic SQL code.md",
     "SQL/SQL СУБД.md",
     "FrontEnd/Bootstrap.md",
     "DotNet/ASP.NET Core/ViewModel.md",
     "DotNet/ASP.NET Core/DI.md",
     "SQL/SQL Tips.md",
-    "HTTP.md",
     "FrontEnd/Untitled",
     "Sources/Pasted image 20240317150804.png",
     "DotNet/ASP.NET Core/DI-контейнер.md",
