@@ -167,12 +167,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "27d8c7e65e9ba6ba",
+  "active": "abf30d1de51e330b",
   "lastOpenFiles": [
-    "FrontEnd/Bootstrap.md",
     "FrontEnd/Vue.js/Модификаторы Vue.js.md",
-    "FrontEnd/Vue.js/Директивы Vue.js.md",
+    "FrontEnd/Vue.js/Options.md",
     "FrontEnd/Vue.js/Vue.js.md",
+    "FrontEnd/Хуки жизненного цикла.md",
+    "FrontEnd/Bootstrap.md",
+    "FrontEnd/Vue.js/Директивы Vue.js.md",
     "BackEnd/ASP.NET Core/ViewModel.md",
     "BackEnd/DotNet",
     "FrontEnd/Vue.js",
