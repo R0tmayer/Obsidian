@@ -62,7 +62,7 @@
               "type": "markdown",
               "state": {
                 "file": "FrontEnd/Vue.js/Директивы Vue.js.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -203,8 +203,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "abf30d1de51e330b",
+  "active": "27d8c7e65e9ba6ba",
   "lastOpenFiles": [
+    "BackEnd/ASP.NET Core/ViewModel.md",
     "FrontEnd/Vue.js/Модификаторы Vue.js.md",
     "FrontEnd/Vue.js/Vue.js.md",
     "BackEnd/DotNet",
@@ -214,7 +215,6 @@
     "SQL/Dynamic SQL code.md",
     "Other/RabitMq.md",
     "Other/Kafka.md",
-    "BackEnd/ASP.NET Core/ViewModel.md",
     "BackEnd/DotNet/IEnumerable.md",
     "conflict-files-obsidian-git.md",
     "BackEnd/DotNet/Collections.md",
