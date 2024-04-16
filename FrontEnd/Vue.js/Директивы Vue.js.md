@@ -74,3 +74,27 @@ const showModal = ref(false);
 >
 ```
 Может быть применён модификатор [[Модификаторы Vue.js#`.lazy`]]
+#### `v-for`
+Перебор массива без ключа
+```js
+<div v-for="state in states">{{state}}</div>
+
+states: {
+'Alabama',
+'Arizona',
+'California',
+'Nevada',
+},
+```
+
+Перебор массива с ключом
+```js
+<div v-for="(state, key) in states" v-bind:value="state">{{key}}</div>
+
+states: {
+AL: 'Alabama',
+AR: 'Arizona',
+CA: 'California',
+NV: 'Nevada',
+},
+```
