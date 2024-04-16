@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FrontEnd/Vue.js/Директивы Vue.js.md",
+                "file": "FrontEnd/Хуки жизненного цикла.md",
                 "mode": "preview",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FrontEnd/Vue.js/Директивы Vue.js.md",
+                "file": "FrontEnd/Хуки жизненного цикла.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FrontEnd/Vue.js/Директивы Vue.js.md",
+                "file": "FrontEnd/Хуки жизненного цикла.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FrontEnd/Vue.js/Директивы Vue.js.md"
+                "file": "FrontEnd/Хуки жизненного цикла.md"
               }
             }
           },
@@ -167,15 +167,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "abf30d1de51e330b",
+  "active": "27d8c7e65e9ba6ba",
   "lastOpenFiles": [
     "FrontEnd/Vue.js/Модификаторы Vue.js.md",
     "FrontEnd/Vue.js/Options.md",
     "FrontEnd/Vue.js/Vue.js.md",
-    "FrontEnd/Хуки жизненного цикла.md",
-    "FrontEnd/Bootstrap.md",
     "FrontEnd/Vue.js/Директивы Vue.js.md",
+    "FrontEnd/Bootstrap.md",
+    "FrontEnd/Хуки жизненного цикла.md",
     "BackEnd/ASP.NET Core/ViewModel.md",
+    "BackEnd/ASP.NET Core/DI-контейнер.md",
+    "BackEnd/ASP.NET Core/DI.md",
     "BackEnd/DotNet",
     "FrontEnd/Vue.js",
     "SQL/Dynamic SQL code.md",
@@ -187,8 +189,6 @@
     "SQL/SQL СУБД.md",
     "SQL/SQL Tips.md",
     "HTTP.md",
-    "BackEnd/ASP.NET Core/DI-контейнер.md",
-    "BackEnd/ASP.NET Core/DI.md",
     "Other/Getting Started.md",
     "Sources/Pasted image 20240317150804.png",
     "Other/MacOS.md",
