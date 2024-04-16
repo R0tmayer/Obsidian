@@ -59,9 +59,11 @@
             "id": "27d8c7e65e9ba6ba",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.5.12"
+                "file": "FrontEnd/Vue.js/Директивы Vue.js.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -116,7 +118,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 225.5
   },
   "right": {
     "id": "64d84ec454917d98",
@@ -132,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FrontEnd/Vue.js/Vue.js.md",
+                "file": "FrontEnd/Vue.js/Директивы Vue.js.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FrontEnd/Vue.js/Vue.js.md",
+                "file": "FrontEnd/Vue.js/Директивы Vue.js.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FrontEnd/Vue.js/Vue.js.md"
+                "file": "FrontEnd/Vue.js/Директивы Vue.js.md"
               }
             }
           },
@@ -201,12 +203,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "27d8c7e65e9ba6ba",
+  "active": "abf30d1de51e330b",
   "lastOpenFiles": [
-    "BackEnd/DotNet",
     "FrontEnd/Vue.js/Модификаторы Vue.js.md",
-    "FrontEnd/Vue.js/Директивы Vue.js.md",
     "FrontEnd/Vue.js/Vue.js.md",
+    "BackEnd/DotNet",
+    "FrontEnd/Vue.js/Директивы Vue.js.md",
     "FrontEnd/Vue.js",
     "FrontEnd/Bootstrap.md",
     "SQL/Dynamic SQL code.md",
