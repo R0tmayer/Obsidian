@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "BackEnd/ASP.NET Core/DI.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -134,22 +134,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ba186e1c632d6b45",
+  "active": "abf30d1de51e330b",
   "lastOpenFiles": [
-    "BackEnd/ASP.NET Core/ViewModel.md",
-    "BackEnd/DotNet/Collections.md",
-    "BackEnd/Kafka.md",
-    "BackEnd/HTTP.md",
-    "FrontEnd/Bootstrap.md",
-    "FrontEnd/Vue.js/Vue.js.md",
     "BackEnd/ASP.NET Core/DI-контейнер.md",
     "BackEnd/SQL/Dynamic SQL code.md",
     "BackEnd/SQL/SQL СУБД.md",
-    "FrontEnd/Vue.js/Options.md",
-    "FrontEnd/Vue.js/Директивы Vue.js.md",
     "FrontEnd/Vue.js/Модификаторы Vue.js.md",
-    "BackEnd/DotNet/IEnumerable.md",
+    "FrontEnd/Vue.js/Директивы Vue.js.md",
     "BackEnd/ASP.NET Core/DI.md",
+    "BackEnd/ASP.NET Core/ViewModel.md",
+    "BackEnd/SQL/SQL Tips.md",
+    "BackEnd/HTTP.md",
+    "BackEnd/Kafka.md",
+    "BackEnd/DotNet/Collections.md",
+    "FrontEnd/Bootstrap.md",
+    "FrontEnd/Vue.js/Vue.js.md",
+    "FrontEnd/Vue.js/Options.md",
+    "BackEnd/DotNet/IEnumerable.md",
     "BackEnd/RabitMq.md",
     "Other/MacOS.md",
     "Collection.md",
@@ -166,7 +167,6 @@
     "BackEnd",
     "DotNet/IEnumerable.md",
     "DotNet/ASP.NET Core/ViewModel.md",
-    "DotNet/ASP.NET Core/DI-контейнер.md",
     "Sources/bs_col-nested.png",
     "Sources/bs_col-sm-5.png",
     "Sources/bs_offset-2.png",
