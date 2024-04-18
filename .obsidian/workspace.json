@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FrontEnd/Vue.js/Options.md",
+                "file": "BackEnd/RabbitMq.md",
                 "mode": "preview",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FrontEnd/Vue.js/Options.md",
+                "file": "BackEnd/RabbitMq.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FrontEnd/Vue.js/Options.md"
+                "file": "BackEnd/RabbitMq.md"
               }
             }
           }
@@ -136,10 +136,10 @@
   },
   "active": "ba186e1c632d6b45",
   "lastOpenFiles": [
+    "FrontEnd/Vue.js/Options.md",
     "FrontEnd/Vue.js/Модификаторы Vue.js.md",
     "FrontEnd/Vue.js/Директивы Vue.js.md",
     "FrontEnd/Vue.js/Vue.js Summary.md",
-    "FrontEnd/Vue.js/Options.md",
     "FrontEnd/Хуки жизненного цикла.md",
     "FrontEnd/Bootstrap.md",
     "BackEnd/ASP.NET Core/ViewModel.md",
@@ -152,7 +152,7 @@
     "BackEnd/Kafka.md",
     "BackEnd/DotNet/Collections.md",
     "BackEnd/DotNet/IEnumerable.md",
-    "BackEnd/RabitMq.md",
+    "BackEnd/RabbitMq.md",
     "Other/MacOS.md",
     "Collection.md",
     "2024-04-18.md",

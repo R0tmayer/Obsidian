@@ -58,9 +58,9 @@
   "Sources": "🖼",
   "BackEnd/SQL": "TiSql",
   "BackEnd/Kafka.md": "SiApachekafka",
-  "BackEnd/RabitMq.md": {
+  "FrontEnd/Хуки жизненного цикла.md": "TiFishHook",
+  "BackEnd/RabbitMq.md": {
     "iconName": "SiRabbitmq",
     "iconColor": "#bd561f"
-  },
-  "FrontEnd/Хуки жизненного цикла.md": "TiFishHook"
+  }
 }
