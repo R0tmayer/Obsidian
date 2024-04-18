@@ -6,6 +6,7 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "SiDotnet",
       "FabVuejs",
       "FabBootstrap"
     ],
@@ -34,6 +35,14 @@
   },
   "FrontEnd/Vue.js": {
     "iconName": "FabVuejs",
-    "iconColor": "#a3ff8a"
+    "iconColor": "#41fb0e"
+  },
+  "BackEnd/ASP.NET Core": {
+    "iconName": "SiDotnet",
+    "iconColor": "#940074"
+  },
+  "BackEnd/DotNet": {
+    "iconName": "SiDotnet",
+    "iconColor": "#008509"
   }
 }
