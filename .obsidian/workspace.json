@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BackEnd/ASP.NET Core/DI.md",
-                "mode": "source",
+                "file": "FrontEnd/Bootstrap.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BackEnd/ASP.NET Core/DI.md",
+                "file": "FrontEnd/Bootstrap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BackEnd/ASP.NET Core/DI.md"
+                "file": "FrontEnd/Bootstrap.md"
               }
             }
           }
@@ -134,15 +134,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "abf30d1de51e330b",
+  "active": "ba186e1c632d6b45",
   "lastOpenFiles": [
+    "FrontEnd/Хуки жизненного цикла.md",
+    "BackEnd/ASP.NET Core/ViewModel.md",
     "BackEnd/ASP.NET Core/DI-контейнер.md",
+    "BackEnd/ASP.NET Core/DI.md",
     "BackEnd/SQL/Dynamic SQL code.md",
     "BackEnd/SQL/SQL СУБД.md",
     "FrontEnd/Vue.js/Модификаторы Vue.js.md",
     "FrontEnd/Vue.js/Директивы Vue.js.md",
-    "BackEnd/ASP.NET Core/DI.md",
-    "BackEnd/ASP.NET Core/ViewModel.md",
     "BackEnd/SQL/SQL Tips.md",
     "BackEnd/HTTP.md",
     "BackEnd/Kafka.md",
@@ -158,7 +159,6 @@
     "Untitled.canvas",
     "Other/Hotkeys.md",
     "Other/Getting Started.md",
-    "FrontEnd/Хуки жизненного цикла.md",
     "conflict-files-obsidian-git.md",
     "FrontEnd/Vue.js.md",
     "FrontEnd/Vue.js",
