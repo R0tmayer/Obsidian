@@ -63,5 +63,6 @@
   "obsidian-prism-theme@@text-italic-bold-color-lt": "var(--text-normal)",
   "obsidian-prism-theme@@text-bold-color-lt": "var(--text-normal)",
   "obsidian-prism-theme@@text-italic-color-lt": "var(--text-normal)",
-  "obsidian-prism-theme@@scroll-bar-size": 12
+  "obsidian-prism-theme@@scroll-bar-size": 12,
+  "obsidian-prism-theme@@status-bar-text-color-lt": "pt-status-bar-text-dark-lt"
 }
