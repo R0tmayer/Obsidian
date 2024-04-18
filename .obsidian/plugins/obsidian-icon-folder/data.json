@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FiMonitor",
       "SiBootstrap",
       "FasImage",
       "FiImage",
-      "TiDotsCircleHorizontal",
-      "FiGlobe"
+      "TiDotsCircleHorizontal"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -44,8 +44,8 @@
     "iconColor": "#008509"
   },
   "FrontEnd": {
-    "iconName": "IbGraphicsAndDesign",
-    "iconColor": "#e9ec5b"
+    "iconName": "FiMonitor",
+    "iconColor": "#00ffd5"
   },
   "BackEnd": {
     "iconName": "IbDatabse",
