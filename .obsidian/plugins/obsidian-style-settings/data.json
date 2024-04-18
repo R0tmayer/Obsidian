@@ -1,7 +1,5 @@
 {
-  "obsidian-prism-theme@@color-schemes-dt": "pt-color-scheme-raven-dt",
-  "obsidian-prism-theme@@color-scheme-style-dt": "pt-color-scheme-style-border-dt",
-  "obsidian-prism-theme@@accent-style-dt": "pt-accent-style-minimal-dt",
+  "obsidian-prism-theme@@accent-style-dt": "pt-accent-style-border-dt",
   "obsidian-prism-theme@@radius-m": 8,
   "obsidian-prism-theme@@radius-s": 4,
   "obsidian-prism-theme@@left-sidebar-tab-label-alignment": "pt-tab-label-left-sidebar-left",
@@ -30,5 +28,8 @@
   "obsidian-prism-theme@@pt-disable-callout-styling": false,
   "obsidian-prism-theme@@pt-disable-mark-highlight-styling": false,
   "obsidian-prism-theme@@pt-collapsed-pinned-tab": false,
-  "obsidian-prism-theme@@pt-pdf-dark-theme": false
+  "obsidian-prism-theme@@pt-pdf-dark-theme": false,
+  "obsidian-prism-theme@@color-scheme-style-dt": "pt-color-scheme-style-two-tone-and-border-dt",
+  "obsidian-prism-theme@@dark-accent-color-preset": "pt-accent-color-purple-dt",
+  "obsidian-prism-theme@@highlight-text-accent-dt": "pt-highlight-text-light-dt"
 }
