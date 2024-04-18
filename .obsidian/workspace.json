@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FrontEnd/Vue.js/Модификаторы Vue.js.md",
-                "mode": "source",
+                "file": "FrontEnd/Bootstrap.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FrontEnd/Vue.js/Модификаторы Vue.js.md",
+                "file": "FrontEnd/Bootstrap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FrontEnd/Vue.js/Модификаторы Vue.js.md"
+                "file": "FrontEnd/Bootstrap.md"
               }
             }
           }
@@ -136,16 +136,20 @@
   },
   "active": "ba186e1c632d6b45",
   "lastOpenFiles": [
-    "FrontEnd/Vue.js/Директивы Vue.js.md",
-    "BackEnd/DotNet/IEnumerable.md",
-    "BackEnd/DotNet/Collections.md",
+    "FrontEnd/Vue.js/Vue.js.md",
     "BackEnd/ASP.NET Core/DI-контейнер.md",
     "BackEnd/ASP.NET Core/ViewModel.md",
+    "BackEnd/DotNet/Collections.md",
+    "BackEnd/SQL/Dynamic SQL code.md",
+    "BackEnd/SQL/SQL СУБД.md",
+    "FrontEnd/Vue.js/Options.md",
+    "FrontEnd/Vue.js/Директивы Vue.js.md",
+    "FrontEnd/Vue.js/Модификаторы Vue.js.md",
+    "BackEnd/DotNet/IEnumerable.md",
     "BackEnd/ASP.NET Core/DI.md",
     "BackEnd/Kafka.md",
     "BackEnd/RabitMq.md",
     "BackEnd/HTTP.md",
-    "BackEnd/SQL/Dynamic SQL code.md",
     "Other/MacOS.md",
     "Collection.md",
     "2024-04-18.md",
@@ -154,9 +158,6 @@
     "Other/Getting Started.md",
     "FrontEnd/Bootstrap.md",
     "FrontEnd/Хуки жизненного цикла.md",
-    "FrontEnd/Vue.js/Options.md",
-    "FrontEnd/Vue.js/Модификаторы Vue.js.md",
-    "FrontEnd/Vue.js/Vue.js.md",
     "conflict-files-obsidian-git.md",
     "FrontEnd/Vue.js.md",
     "FrontEnd/Vue.js",
@@ -166,7 +167,6 @@
     "DotNet/IEnumerable.md",
     "DotNet/ASP.NET Core/ViewModel.md",
     "DotNet/ASP.NET Core/DI-контейнер.md",
-    "DotNet/Collections.md",
     "Sources/bs_col-nested.png",
     "Sources/bs_col-sm-5.png",
     "Sources/bs_offset-2.png",
