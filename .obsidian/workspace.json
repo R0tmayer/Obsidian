@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FrontEnd/Vue.js.md",
+                "file": "FrontEnd/Bootstrap.md",
                 "mode": "preview",
                 "source": false
               }
             }
+          },
+          {
+            "id": "9ea8d8e7efedf12a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FrontEnd/Vue.js.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FrontEnd/Vue.js.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FrontEnd/Vue.js.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -154,14 +167,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "abf30d1de51e330b",
+  "active": "9ea8d8e7efedf12a",
   "lastOpenFiles": [
     "FrontEnd/Bootstrap.md",
+    "conflict-files-obsidian-git.md",
+    "FrontEnd/Хуки жизненного цикла.md",
+    "FrontEnd/Vue.js/Модификаторы Vue.js.md",
+    "FrontEnd/Vue.js/Директивы Vue.js.md",
+    "FrontEnd/Vue.js/Vue.js.md",
+    "FrontEnd/Vue.js/Options.md",
+    "FrontEnd/Vue.js.md",
+    "FrontEnd/Vue.js",
+    "BackEnd/DotNet/IEnumerable.md",
+    "BackEnd/DotNet/Collections.md",
+    "BackEnd/DotNet",
+    "BackEnd/ASP.NET Core/ViewModel.md",
+    "BackEnd/ASP.NET Core/DI.md",
+    "BackEnd/ASP.NET Core/DI-контейнер.md",
+    "BackEnd/ASP.NET Core",
+    "BackEnd",
     "DotNet/IEnumerable.md",
     "DotNet/ASP.NET Core/ViewModel.md",
     "DotNet/ASP.NET Core/DI-контейнер.md",
     "DotNet/Collections.md",
-    "FrontEnd/Vue.js.md",
     "Other/RabitMq.md",
     "Other/MacOS.md",
     "Other/Getting Started.md",
@@ -175,10 +203,8 @@
     "Sources/bs_col_1.png",
     "HTTP.md",
     "SQL/Dynamic SQL code.md",
-    "conflict-files-obsidian-git.md",
     "Новый текстовый документ.txt",
     "SQL/SQL СУБД.md",
-    "SQL/SQL Tips.md",
     "FrontEnd/Untitled",
     "Sources/Pasted image 20240317150804.png",
     "Sources/sql_cart-structure.png",
@@ -186,20 +212,8 @@
     "Sources/bs_col-xl-8.png",
     "FrontEnd",
     "SQL",
-    "Examples.md",
     "Other",
     "DotNet/ASP.NET Core",
-    "DotNet",
-    "Sources/(img) Publish PortalDB.png",
-    "DeltaLeasing/Test Databases.md",
-    "DeltaLeasing/SQL Scripts.md",
-    "Sources/ВЫДАТЬ ПРАВО.sql",
-    "ВЫДАТЬ ПРАВО.sql",
-    "DeltaLeasing/SQL Scripts/SQL Scripts.md",
-    "DeltaLeasing/SQL Scripts",
-    "ASP.NET Core/ViewModel.md",
-    "DeltaLeasing/PortalDB.md",
-    "ASP.NET Core/ASP.NET Core.md",
-    "Getting Started.md"
+    "Sources/(img) Publish PortalDB.png"
   ]
 }
