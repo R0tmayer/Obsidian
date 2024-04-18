@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "TiFishHook",
       "SiRabbitmq",
       "RaRabbit",
       "SiApachekafka",
-      "TiSql",
-      "🖼"
+      "TiSql"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -61,5 +61,6 @@
   "BackEnd/RabitMq.md": {
     "iconName": "SiRabbitmq",
     "iconColor": "#bd561f"
-  }
+  },
+  "FrontEnd/Хуки жизненного цикла.md": "TiFishHook"
 }
