@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BackEnd/SQL/Dynamic SQL code.md",
+                "file": "FrontEnd/Vue.js/Модификаторы Vue.js.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BackEnd/SQL/Dynamic SQL code.md",
+                "file": "FrontEnd/Vue.js/Модификаторы Vue.js.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BackEnd/SQL/Dynamic SQL code.md"
+                "file": "FrontEnd/Vue.js/Модификаторы Vue.js.md"
               }
             }
           }
@@ -134,18 +134,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "abf30d1de51e330b",
+  "active": "ba186e1c632d6b45",
   "lastOpenFiles": [
+    "FrontEnd/Vue.js/Директивы Vue.js.md",
+    "BackEnd/DotNet/IEnumerable.md",
+    "BackEnd/DotNet/Collections.md",
+    "BackEnd/ASP.NET Core/DI-контейнер.md",
     "BackEnd/ASP.NET Core/ViewModel.md",
     "BackEnd/ASP.NET Core/DI.md",
-    "BackEnd/ASP.NET Core/DI-контейнер.md",
-    "BackEnd/RabitMq.md",
     "BackEnd/Kafka.md",
-    "Other/MacOS.md",
+    "BackEnd/RabitMq.md",
     "BackEnd/HTTP.md",
-    "BackEnd/DotNet/IEnumerable.md",
+    "BackEnd/SQL/Dynamic SQL code.md",
+    "Other/MacOS.md",
     "Collection.md",
-    "BackEnd/DotNet/Collections.md",
     "2024-04-18.md",
     "Untitled.canvas",
     "Other/Hotkeys.md",
@@ -154,7 +156,6 @@
     "FrontEnd/Хуки жизненного цикла.md",
     "FrontEnd/Vue.js/Options.md",
     "FrontEnd/Vue.js/Модификаторы Vue.js.md",
-    "FrontEnd/Vue.js/Директивы Vue.js.md",
     "FrontEnd/Vue.js/Vue.js.md",
     "conflict-files-obsidian-git.md",
     "FrontEnd/Vue.js.md",
@@ -166,7 +167,6 @@
     "DotNet/ASP.NET Core/ViewModel.md",
     "DotNet/ASP.NET Core/DI-контейнер.md",
     "DotNet/Collections.md",
-    "DotNet/ASP.NET Core/DI.md",
     "Sources/bs_col-nested.png",
     "Sources/bs_col-sm-5.png",
     "Sources/bs_offset-2.png",
