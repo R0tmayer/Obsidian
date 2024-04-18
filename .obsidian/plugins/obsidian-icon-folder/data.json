@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "TiFishHook",
-      "SiRabbitmq",
-      "RaRabbit",
-      "SiApachekafka",
-      "TiSql"
+      "SiBootstrap",
+      "FasImage",
+      "FiImage",
+      "TiDotsCircleHorizontal",
+      "FiGlobe"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -31,10 +31,6 @@
     "iconIdentifier": ":",
     "debugMode": false
   },
-  "FrontEnd/Bootstrap.md": {
-    "iconName": "FabBootstrap",
-    "iconColor": "#ffb3eb"
-  },
   "FrontEnd/Vue.js": {
     "iconName": "FabVuejs",
     "iconColor": "#41fb0e"
@@ -53,14 +49,23 @@
   },
   "BackEnd": {
     "iconName": "IbDatabse",
-    "iconColor": "#414fb9"
+    "iconColor": "#7361ff"
   },
-  "Sources": "🖼",
   "BackEnd/SQL": "TiSql",
-  "BackEnd/Kafka.md": "SiApachekafka",
   "FrontEnd/Хуки жизненного цикла.md": "TiFishHook",
-  "BackEnd/RabbitMq.md": {
+  "BackEnd/WebTechnologies/RabbitMq.md": {
     "iconName": "SiRabbitmq",
     "iconColor": "#bd561f"
+  },
+  "BackEnd/WebTechnologies/Kafka.md": "SiApachekafka",
+  "BackEnd/WebTechnologies": {
+    "iconName": "FiGlobe",
+    "iconColor": "#002aff"
+  },
+  "Other": "TiDotsCircleHorizontal",
+  "Sources": "FasImage",
+  "FrontEnd/Bootstrap": {
+    "iconName": "SiBootstrap",
+    "iconColor": "#ff47ce"
   }
 }
