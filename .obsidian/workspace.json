@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTTP.md",
-                "mode": "source",
+                "file": "DotNet/Collections.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTTP.md",
+                "file": "DotNet/Collections.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HTTP.md",
+                "file": "DotNet/Collections.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HTTP.md"
+                "file": "DotNet/Collections.md"
               }
             }
           },
@@ -156,37 +156,37 @@
   },
   "active": "deaa4ee7db6cd47d",
   "lastOpenFiles": [
-    "SQL/Dynamic SQL code.md",
+    "DotNet/ASP.NET Core/DI-контейнер.md",
+    "DotNet/ASP.NET Core/ViewModel.md",
+    "FrontEnd/Bootstrap.md",
     "FrontEnd/Vue.js.md",
-    "HTTP.md",
-    "Other/Kafka.md",
     "Other/RabitMq.md",
+    "Other/MacOS.md",
+    "Other/Getting Started.md",
+    "Other/Hotkeys.md",
+    "DotNet/Collections.md",
+    "DotNet/IEnumerable.md",
+    "DotNet/ASP.NET Core/DI.md",
+    "Other/Kafka.md",
+    "Sources/bs_col-nested.png",
+    "Sources/bs_col-sm-5.png",
+    "Sources/bs_offset-2.png",
+    "Sources/bs_col-md-6.png",
+    "Sources/bs_col_1.png",
+    "HTTP.md",
+    "SQL/Dynamic SQL code.md",
     "conflict-files-obsidian-git.md",
     "Новый текстовый документ.txt",
     "SQL/SQL СУБД.md",
-    "FrontEnd/Bootstrap.md",
-    "DotNet/ASP.NET Core/ViewModel.md",
-    "DotNet/ASP.NET Core/DI.md",
     "SQL/SQL Tips.md",
     "FrontEnd/Untitled",
     "Sources/Pasted image 20240317150804.png",
-    "DotNet/ASP.NET Core/DI-контейнер.md",
-    "DotNet/Collections.md",
     "Sources/sql_cart-structure.png",
-    "Sources/bs_offset-2.png",
     "Sources/bs_col_2.png",
-    "Sources/bs_col_1.png",
     "Sources/bs_col-xl-8.png",
-    "Sources/bs_col-sm-5.png",
-    "Sources/bs_col-nested.png",
-    "Sources/bs_col-md-6.png",
     "FrontEnd",
     "SQL",
-    "DotNet/IEnumerable.md",
     "Examples.md",
-    "Other/MacOS.md",
-    "Other/Hotkeys.md",
-    "Other/Getting Started.md",
     "Other",
     "DotNet/ASP.NET Core",
     "DotNet",
