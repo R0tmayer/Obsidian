@@ -16,7 +16,7 @@
   "obsidian-prism-theme@@pt-fixed-status-bar-align": "pt-fixed-status-bar-align-center",
   "obsidian-prism-theme@@status-bar-preset-lt": "pt-status-bar-default-lt",
   "obsidian-prism-theme@@color-scheme-style-lt": "pt-color-scheme-style-two-tone-and-border-lt",
-  "obsidian-prism-theme@@pt-focused-mode": true,
+  "obsidian-prism-theme@@pt-focused-mode": false,
   "obsidian-prism-theme@@focused-mode-style": "pt-focused-style-main-only",
   "obsidian-prism-theme@@light-mark-highlight-style": "pt-highlight-style-borderandfilled-lt",
   "obsidian-prism-theme@@light-mark-highlight-text-color-preset": "pt-highlight-text-color-lt",
@@ -27,8 +27,6 @@
   "obsidian-prism-theme@@pt-collapsed-pinned-tab": false,
   "obsidian-prism-theme@@pt-pdf-dark-theme": false,
   "obsidian-prism-theme@@color-scheme-style-dt": "pt-color-scheme-style-two-tone-and-border-dt",
-  "obsidian-prism-theme@@dark-accent-color-preset": "pt-accent-color-purple-dt",
-  "obsidian-prism-theme@@highlight-text-accent-dt": "pt-highlight-text-light-dt",
   "obsidian-prism-theme@@pt-font-alt-a": false,
   "obsidian-prism-theme@@pt-font-alt-g": false,
   "obsidian-prism-theme@@pt-font-slashed-zero": false,
@@ -42,5 +40,12 @@
   "obsidian-prism-theme@@pt-custom-vault-banner": true,
   "obsidian-prism-theme@@custom-vault-banner-horizontal-align": "pt-custom-vault-banner-justify-content-left",
   "obsidian-prism-theme@@custom-vault-banner-order": "pt-custom-vault-banner-order-ltr",
-  "obsidian-prism-theme@@pt-custom-vault-banner-sticky": true
+  "obsidian-prism-theme@@pt-custom-vault-banner-sticky": true,
+  "obsidian-prism-theme@@h1-text-color-dt": "var(--color-yellow-text)",
+  "obsidian-prism-theme@@h2-text-color-dt": "var(--color-purple-text)",
+  "obsidian-prism-theme@@h3-text-color-dt": "var(--color-blue-text)",
+  "obsidian-prism-theme@@h4-text-color-dt": "var(--color-cyan-text)",
+  "obsidian-prism-theme@@h5-text-color-dt": "var(--color-mint-text)",
+  "obsidian-prism-theme@@h6-text-color-dt": "var(--color-grey-text)",
+  "obsidian-prism-theme@@inline-title-color-dt": "var(--color-red-text)"
 }
