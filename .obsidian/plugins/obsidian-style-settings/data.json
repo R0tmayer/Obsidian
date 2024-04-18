@@ -1,4 +1,18 @@
 {
-  "blue-topaz-theme@@color-scheme-options": "color-scheme-options-default",
-  "blue-topaz-theme@@background-settings-workplace-background-image": true
+  "obsidian-prism-theme@@color-schemes-dt": "pt-color-scheme-raven-dt",
+  "obsidian-prism-theme@@color-scheme-style-dt": "pt-color-scheme-style-minimal-dt",
+  "obsidian-prism-theme@@accent-style-dt": "pt-accent-style-minimal-dt",
+  "obsidian-prism-theme@@radius-m": 8,
+  "obsidian-prism-theme@@radius-s": 4,
+  "obsidian-prism-theme@@left-sidebar-tab-label-alignment": "pt-tab-label-left-sidebar-left",
+  "obsidian-prism-theme@@nav-header-left-sidebar-position": "pt-nav-header-left-sidebar-position-top",
+  "obsidian-prism-theme@@nav-header-left-sidebar-alignment": "pt-nav-header-left-sidebar-align-left",
+  "obsidian-prism-theme@@nav-header-right-sidebar-position": "pt-nav-header-right-sidebar-position-top",
+  "obsidian-prism-theme@@nav-header-right-sidebar-alignment": "pt-nav-header-right-sidebar-align-left",
+  "obsidian-prism-theme@@tab-header-alignment": "pt-tab-header-left",
+  "obsidian-prism-theme@@pt-file-explorer-folder-icon": true,
+  "obsidian-prism-theme@@pt-file-explorer-folder-icon-color": "pt-file-explorer-folder-icon-default",
+  "obsidian-prism-theme@@pt-colored-folders": false,
+  "obsidian-prism-theme@@pt-colored-folders-style": "pt-colored-folders-style-rainbow",
+  "obsidian-prism-theme@@pt-colored-folders-files-match": false
 }
