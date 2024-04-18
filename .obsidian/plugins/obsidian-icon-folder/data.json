@@ -6,9 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "SiDotnet",
-      "FabVuejs",
-      "FabBootstrap"
+      "TiSql",
+      "🖼",
+      "FasVault",
+      "IbDatabse",
+      "IbGraphicsAndDesign"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -44,5 +46,15 @@
   "BackEnd/DotNet": {
     "iconName": "SiDotnet",
     "iconColor": "#008509"
-  }
+  },
+  "FrontEnd": {
+    "iconName": "IbGraphicsAndDesign",
+    "iconColor": "#e9ec5b"
+  },
+  "BackEnd": {
+    "iconName": "IbDatabse",
+    "iconColor": "#414fb9"
+  },
+  "Sources": "🖼",
+  "BackEnd/SQL": "TiSql"
 }

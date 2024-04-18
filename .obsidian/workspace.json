@@ -126,7 +126,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ba186e1c632d6b45",
+  "active": "abf30d1de51e330b",
   "lastOpenFiles": [
     "Untitled.canvas",
     "Collection.md",
@@ -170,7 +170,7 @@
     "Sources/bs_col_2.png",
     "Sources/bs_col-xl-8.png",
     "FrontEnd",
-    "SQL",
+    "BackEnd/SQL",
     "Other",
     "DotNet/ASP.NET Core",
     "Sources/(img) Publish PortalDB.png"
