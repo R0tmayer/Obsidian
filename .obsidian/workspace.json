@@ -4,23 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "b21c66a34b693e2e",
+        "id": "7c23b5510b4eb79e",
         "type": "tabs",
         "children": [
           {
-            "id": "deaa4ee7db6cd47d",
+            "id": "ba186e1c632d6b45",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Other/MacOS.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "stacked": true
+        ]
       }
     ],
     "direction": "vertical"
@@ -97,7 +92,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Other/MacOS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,25 +103,11 @@
             }
           },
           {
-            "id": "c6694575c0b3b934",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Other/MacOS.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
             "id": "356b9dda97969e3a",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Other/MacOS.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,12 +126,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "deaa4ee7db6cd47d",
+  "active": "ba186e1c632d6b45",
   "lastOpenFiles": [
-    "Other/Hotkeys.md",
-    "Other/Getting Started.md",
+    "Untitled.canvas",
+    "Collection.md",
     "BackEnd/DotNet/Collections.md",
     "BackEnd/DotNet/IEnumerable.md",
+    "Other/MacOS.md",
+    "Other/Hotkeys.md",
+    "Other/Getting Started.md",
     "Other/Kafka.md",
     "FrontEnd/Bootstrap.md",
     "FrontEnd/Хуки жизненного цикла.md",
@@ -174,16 +157,13 @@
     "DotNet/ASP.NET Core/DI-контейнер.md",
     "DotNet/Collections.md",
     "Other/RabitMq.md",
-    "Other/MacOS.md",
     "DotNet/ASP.NET Core/DI.md",
     "Sources/bs_col-nested.png",
     "Sources/bs_col-sm-5.png",
     "Sources/bs_offset-2.png",
     "Sources/bs_col-md-6.png",
     "Sources/bs_col_1.png",
-    "SQL/Dynamic SQL code.md",
     "Новый текстовый документ.txt",
-    "SQL/SQL СУБД.md",
     "FrontEnd/Untitled",
     "Sources/Pasted image 20240317150804.png",
     "Sources/sql_cart-structure.png",

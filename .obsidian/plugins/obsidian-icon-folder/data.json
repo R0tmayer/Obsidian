@@ -5,7 +5,10 @@
     "fontSize": 16,
     "emojiStyle": "native",
     "iconColor": null,
-    "recentlyUsedIcons": [],
+    "recentlyUsedIcons": [
+      "FabVuejs",
+      "FabBootstrap"
+    ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
     "extraMargin": {
@@ -24,5 +27,13 @@
     "iconsInLinksEnabled": true,
     "iconIdentifier": ":",
     "debugMode": false
+  },
+  "FrontEnd/Bootstrap.md": {
+    "iconName": "FabBootstrap",
+    "iconColor": "#ffb3eb"
+  },
+  "FrontEnd/Vue.js": {
+    "iconName": "FabVuejs",
+    "iconColor": "#a3ff8a"
   }
 }
