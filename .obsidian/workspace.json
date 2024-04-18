@@ -13,26 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FrontEnd/Bootstrap.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9ea8d8e7efedf12a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Other/MacOS.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -93,12 +81,23 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5a1cb35095ad791b",
+            "id": "ae88021401eb70f1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "e9e2776c5005fdc1",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Other/MacOS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,48 +109,28 @@
             }
           },
           {
-            "id": "8d6a7dd265a935ab",
+            "id": "c6694575c0b3b934",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Other/MacOS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "ae88021401eb70f1",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "dd573a96796bb609",
+            "id": "356b9dda97969e3a",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Other/MacOS.md"
               }
             }
-          },
-          {
-            "id": "876311cf369e5ade",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -167,19 +146,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9ea8d8e7efedf12a",
+  "active": "deaa4ee7db6cd47d",
   "lastOpenFiles": [
+    "Other/Hotkeys.md",
+    "Other/Getting Started.md",
+    "BackEnd/DotNet/Collections.md",
+    "BackEnd/DotNet/IEnumerable.md",
+    "Other/Kafka.md",
     "FrontEnd/Bootstrap.md",
-    "conflict-files-obsidian-git.md",
     "FrontEnd/Хуки жизненного цикла.md",
+    "FrontEnd/Vue.js/Options.md",
     "FrontEnd/Vue.js/Модификаторы Vue.js.md",
     "FrontEnd/Vue.js/Директивы Vue.js.md",
     "FrontEnd/Vue.js/Vue.js.md",
-    "FrontEnd/Vue.js/Options.md",
+    "conflict-files-obsidian-git.md",
+    "HTTP.md",
     "FrontEnd/Vue.js.md",
     "FrontEnd/Vue.js",
-    "BackEnd/DotNet/IEnumerable.md",
-    "BackEnd/DotNet/Collections.md",
     "BackEnd/DotNet",
     "BackEnd/ASP.NET Core/ViewModel.md",
     "BackEnd/ASP.NET Core/DI.md",
@@ -192,16 +175,12 @@
     "DotNet/Collections.md",
     "Other/RabitMq.md",
     "Other/MacOS.md",
-    "Other/Getting Started.md",
-    "Other/Hotkeys.md",
     "DotNet/ASP.NET Core/DI.md",
-    "Other/Kafka.md",
     "Sources/bs_col-nested.png",
     "Sources/bs_col-sm-5.png",
     "Sources/bs_offset-2.png",
     "Sources/bs_col-md-6.png",
     "Sources/bs_col_1.png",
-    "HTTP.md",
     "SQL/Dynamic SQL code.md",
     "Новый текстовый документ.txt",
     "SQL/SQL СУБД.md",
