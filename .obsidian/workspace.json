@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FrontEnd/Bootstrap/Bootstrap Summary.md",
-                "mode": "preview",
+                "file": "2024-04-19.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -89,6 +89,45 @@
                 "useHierarchy": false
               }
             }
+          },
+          {
+            "id": "3c412e4c804f94b2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2024-04-19.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6786af04c8863aa1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2024-04-19.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8d5513b616cc6b80",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2024-04-19.md"
+              }
+            }
           }
         ]
       }
@@ -108,26 +147,27 @@
   },
   "active": "ba186e1c632d6b45",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "BackEnd/ASP.NET Core/ViewModel.md",
+    "BackEnd/ASP.NET Core/DI-контейнер.md",
+    "BackEnd/ASP.NET Core/DI.md",
+    "BackEnd/DotNet/IEnumerable.md",
+    "BackEnd/DotNet/Collections.md",
+    "BackEnd/SQL/SQL Tips.md",
+    "BackEnd/SQL/SQL СУБД.md",
+    "BackEnd/SQL/Dynamic SQL code.md",
+    "2024-04-19.md",
     "FrontEnd/Bootstrap/Bootstrap Summary.md",
+    "conflict-files-obsidian-git.md",
     "FrontEnd/Bootstrap",
     "FrontEnd/Хуки жизненного цикла.md",
     "BackEnd/WebTechnologies/HTTP.md",
-    "BackEnd/SQL/Dynamic SQL code.md",
     "BackEnd/WebTechnologies/RabbitMq.md",
     "BackEnd/WebTechnologies",
     "FrontEnd/Vue.js/Options.md",
     "FrontEnd/Vue.js/Модификаторы Vue.js.md",
     "FrontEnd/Vue.js/Директивы Vue.js.md",
     "FrontEnd/Vue.js/Vue.js Summary.md",
-    "BackEnd/ASP.NET Core/ViewModel.md",
-    "BackEnd/ASP.NET Core/DI-контейнер.md",
-    "BackEnd/ASP.NET Core/DI.md",
-    "BackEnd/SQL/SQL СУБД.md",
-    "BackEnd/SQL/SQL Tips.md",
     "BackEnd/WebTechnologies/Kafka.md",
-    "BackEnd/DotNet/Collections.md",
-    "BackEnd/DotNet/IEnumerable.md",
     "Other/MacOS.md",
     "Collection.md",
     "2024-04-18.md",
