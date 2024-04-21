@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "a7f6ac2837a5b181",
+        "id": "872bdae4b694c85d",
         "type": "tabs",
         "children": [
           {
-            "id": "3e83446e26734508",
+            "id": "1b5a37d5cf265ee1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BackEnd/WebTechnologies/URL-URI-URN.md",
-                "mode": "source",
+                "file": "BackEnd/WebTechnologies/HTTP/URI.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BackEnd/WebTechnologies/URL-URI-URN.md",
+                "file": "BackEnd/WebTechnologies/HTTP/URI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BackEnd/WebTechnologies/URL-URI-URN.md",
+                "file": "BackEnd/WebTechnologies/HTTP/URI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BackEnd/WebTechnologies/URL-URI-URN.md"
+                "file": "BackEnd/WebTechnologies/HTTP/URI.md"
               }
             }
           }
@@ -145,12 +145,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3e83446e26734508",
+  "active": "1b5a37d5cf265ee1",
   "lastOpenFiles": [
-    "BackEnd/WebTechnologies/URI.md",
-    "BackEnd/WebTechnologies/URN.md",
-    "BackEnd/WebTechnologies/URL.md",
-    "BackEnd/WebTechnologies/URL-URI-URN.md",
+    "BackEnd/WebTechnologies/HTTP/URL.md",
+    "BackEnd/WebTechnologies/HTTP/URI.md",
+    "BackEnd/WebTechnologies/HTTP/URN.md",
+    "BackEnd/WebTechnologies/HTTP/URL-URI-URN.md",
+    "BackEnd/WebTechnologies/HTTP/HTTP.md",
+    "BackEnd/WebTechnologies/MessageBrokers/RabbitMq.md",
+    "BackEnd/WebTechnologies/HTTP",
+    "BackEnd/WebTechnologies/MessageBrokers/Kafka.md",
+    "BackEnd/WebTechnologies/MessageBrokers",
+    "Sources/Pasted image 20240422093952.png",
     "Sources/Pasted image 20240422093738.png",
     "BackEnd/ASP.NET Core/Model Binding.md",
     "2024-04-19.md",
@@ -167,15 +173,11 @@
     "conflict-files-obsidian-git.md",
     "FrontEnd/Bootstrap",
     "FrontEnd/Хуки жизненного цикла.md",
-    "BackEnd/WebTechnologies/HTTP.md",
-    "BackEnd/WebTechnologies/RabbitMq.md",
     "BackEnd/WebTechnologies",
     "FrontEnd/Vue.js/Options.md",
     "FrontEnd/Vue.js/Модификаторы Vue.js.md",
     "FrontEnd/Vue.js/Директивы Vue.js.md",
     "FrontEnd/Vue.js/Vue.js Summary.md",
-    "BackEnd/WebTechnologies/Kafka.md",
-    "Other/MacOS.md",
     "Untitled.canvas",
     "FrontEnd/Vue.js",
     "BackEnd/DotNet",
@@ -190,9 +192,6 @@
     "Sources/Pasted image 20240317150804.png",
     "Sources/sql_cart-structure.png",
     "Sources/bs_col_2.png",
-    "Sources/bs_col-xl-8.png",
-    "FrontEnd",
-    "BackEnd/SQL",
-    "Other"
+    "FrontEnd"
   ]
 }

@@ -53,11 +53,6 @@
   },
   "BackEnd/SQL": "TiSql",
   "FrontEnd/Хуки жизненного цикла.md": "TiFishHook",
-  "BackEnd/WebTechnologies/RabbitMq.md": {
-    "iconName": "SiRabbitmq",
-    "iconColor": "#bd561f"
-  },
-  "BackEnd/WebTechnologies/Kafka.md": "SiApachekafka",
   "BackEnd/WebTechnologies": {
     "iconName": "FiGlobe",
     "iconColor": "#002aff"
@@ -67,5 +62,10 @@
   "FrontEnd/Bootstrap": {
     "iconName": "SiBootstrap",
     "iconColor": "#ff47ce"
-  }
+  },
+  "BackEnd/WebTechnologies/MessageBrokers/RabbitMq.md": {
+    "iconName": "SiRabbitmq",
+    "iconColor": "#bd561f"
+  },
+  "BackEnd/WebTechnologies/MessageBrokers/Kafka.md": "SiApachekafka"
 }
