@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-04-19.md",
+                "file": "BackEnd/ASP.NET Core/Model Binding.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-04-19.md",
+                "file": "BackEnd/ASP.NET Core/Model Binding.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-04-19.md",
+                "file": "BackEnd/ASP.NET Core/Model Binding.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-04-19.md"
+                "file": "BackEnd/ASP.NET Core/Model Binding.md"
               }
             }
           }
@@ -147,8 +147,9 @@
   },
   "active": "ba186e1c632d6b45",
   "lastOpenFiles": [
-    "2024-04-22.md",
     "2024-04-19.md",
+    "BackEnd/ASP.NET Core/Model Binding.md",
+    "2024-04-22.md",
     "BackEnd/ASP.NET Core/ViewModel.md",
     "BackEnd/ASP.NET Core/DI-контейнер.md",
     "BackEnd/ASP.NET Core/DI.md",
@@ -175,7 +176,6 @@
     "Untitled.canvas",
     "Other/Hotkeys.md",
     "Other/Getting Started.md",
-    "FrontEnd/Vue.js.md",
     "FrontEnd/Vue.js",
     "BackEnd/DotNet",
     "BackEnd/ASP.NET Core",
