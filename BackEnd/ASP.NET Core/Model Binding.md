@@ -9,4 +9,6 @@ HttpResponseMessage Put(int id, Product item) { ... }
 `id` - примитивный тип, поэтому Web API пытается получить значение из [[URI]]
 `item` - сложный тип, поэтому Web API использует [[Media-type formatter]] чтобы прочитать значение из [[Request body]]
 
-Чтобы извлечь значение из [[URI]], Web API смотрит в [[Route data]] и в [[Query string]]. 
+Чтобы извлечь значение из [[URI]], Web API смотрит в [[Route data]] и в [[Query string]]. Route Data заполняется когда система маршрутизации смогла сопоставить URI и роут.
+
+Ключевой принцип [[HTTP]] заключается в том, что ресурсы передаются в [[message body]] с использованием [[Content negotiation]] для указания представления ресурса.
