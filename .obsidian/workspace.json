@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FrontEnd/Vue.js/Components.md",
+                "file": "FrontEnd/Lifecycle hooks.md",
                 "mode": "preview",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FrontEnd/Vue.js/Components.md",
+                "file": "FrontEnd/Lifecycle hooks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FrontEnd/Vue.js/Components.md",
+                "file": "FrontEnd/Lifecycle hooks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FrontEnd/Vue.js/Components.md"
+                "file": "FrontEnd/Lifecycle hooks.md"
               }
             }
           }
@@ -148,16 +148,16 @@
   },
   "active": "65a528239371ea5e",
   "lastOpenFiles": [
-    "FrontEnd/Vue.js/Модификаторы Vue.js.md",
-    "FrontEnd/Vue.js/Options.md",
-    "FrontEnd/Vue.js/Components.md",
+    "FrontEnd/Vue.js/Directives Vue.js.md",
+    "FrontEnd/Vue.js/Modificators Vue.js.md",
+    "FrontEnd/Lifecycle hooks.md",
     "FrontEnd/Vue.js/Vue.js Summary.md",
-    "FrontEnd/Vue.js/Директивы Vue.js.md",
+    "FrontEnd/Vue.js/Components.md",
+    "FrontEnd/Vue.js/Options.md",
     "BackEnd/ASP.NET Core/Model Binding.md",
     "BackEnd/ASP.NET Core/ViewModel.md",
     "2024-04-22.md",
     "BackEnd/DotNet/Collections.md",
-    "FrontEnd/Хуки жизненного цикла.md",
     "BackEnd/WebTechnologies/HTTP/Route data.md",
     "BackEnd/WebTechnologies/HTTP/Request body.md",
     "BackEnd/WebTechnologies/HTTP/Query string.md",

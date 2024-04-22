@@ -3,7 +3,7 @@ text
 ### created
 text
 ### beforeMount
-text
+Hook can be used to run code after an instance is created
 ### mounted
 text
 ### beforeUpdate
