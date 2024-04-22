@@ -66,7 +66,7 @@ public HttpResponseMessage Post([FromBody] string name) { ... }
 ```
 
 
->[!tip]- Из Request body можно прочитать единожды
+>[!tip]- Нельзя использовать несколько [FromBody]
 > В данном случае ни один из параметров не заполнится, Web API выдаст ошибку:
 > `public HttpResponseMessage Post([FromBody] int id, [FromBody] string name) { ... }`
-> Причина: 
+> Причина: request body might be stored in a non-buffered stream that can only be read once.
