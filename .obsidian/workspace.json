@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FrontEnd/Хуки жизненного цикла.md",
+                "file": "FrontEnd/Vue.js/Vue.js Summary.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FrontEnd/Хуки жизненного цикла.md",
+                "file": "FrontEnd/Vue.js/Vue.js Summary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FrontEnd/Хуки жизненного цикла.md",
+                "file": "FrontEnd/Vue.js/Vue.js Summary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FrontEnd/Хуки жизненного цикла.md"
+                "file": "FrontEnd/Vue.js/Vue.js Summary.md"
               }
             }
           }
@@ -148,6 +148,12 @@
   },
   "active": "5d3acd4ea37aba4c",
   "lastOpenFiles": [
+    "FrontEnd/Vue.js/Директивы Vue.js.md",
+    "FrontEnd/Хуки жизненного цикла.md",
+    "FrontEnd/Vue.js/Options.md",
+    "FrontEnd/Vue.js/Модификаторы Vue.js.md",
+    "BackEnd/DotNet/Collections.md",
+    "BackEnd/ASP.NET Core/ViewModel.md",
     "FrontEnd/Vue.js/Vue.js Summary.md",
     "BackEnd/WebTechnologies/HTTP/Route data.md",
     "BackEnd/WebTechnologies/HTTP/Request body.md",
@@ -165,20 +171,14 @@
     "Other/Getting Started.md",
     "BackEnd/ASP.NET Core/DI-контейнер.md",
     "BackEnd/WebTechnologies/HTTP/URI.md",
-    "BackEnd/ASP.NET Core/ViewModel.md",
     "BackEnd/WebTechnologies/HTTP/Content negotiation.md",
     "Sources/bs_col_1.png",
     "BackEnd/WebTechnologies/HTTP/URL.md",
     "Other/Hotkeys.md",
-    "BackEnd/WebTechnologies/HTTP/URN.md",
-    "BackEnd/WebTechnologies/MessageBrokers/RabbitMq.md",
     "BackEnd/WebTechnologies/HTTP",
-    "BackEnd/WebTechnologies/MessageBrokers/Kafka.md",
     "BackEnd/WebTechnologies/MessageBrokers",
     "Sources/Pasted image 20240422093952.png",
     "Sources/Pasted image 20240422093738.png",
-    "BackEnd/ASP.NET Core/DI.md",
-    "BackEnd/DotNet/IEnumerable.md",
     "FrontEnd/Bootstrap",
     "BackEnd/WebTechnologies",
     "Untitled.canvas",
