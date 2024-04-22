@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BackEnd/ASP.NET Core/Model Binding.md",
+                "file": "BackEnd/WebTechnologies/HTTP/URL-URI-URN.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BackEnd/ASP.NET Core/Model Binding.md",
+                "file": "BackEnd/WebTechnologies/HTTP/URL-URI-URN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BackEnd/ASP.NET Core/Model Binding.md",
+                "file": "BackEnd/WebTechnologies/HTTP/URL-URI-URN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BackEnd/ASP.NET Core/Model Binding.md"
+                "file": "BackEnd/WebTechnologies/HTTP/URL-URI-URN.md"
               }
             }
           }
@@ -148,16 +148,16 @@
   },
   "active": "5d3acd4ea37aba4c",
   "lastOpenFiles": [
+    "BackEnd/WebTechnologies/HTTP/HTTP Headers.md",
+    "BackEnd/WebTechnologies/HTTP/HTTP.md",
+    "BackEnd/ASP.NET Core/Model Binding.md",
     "BackEnd/WebTechnologies/HTTP/HTTP Resource.md",
     "BackEnd/WebTechnologies/HTTP/HTTP resource representation.md",
     "BackEnd/WebTechnologies/HTTP/Media-type formatter.md",
     "BackEnd/WebTechnologies/HTTP/Query string.md",
-    "BackEnd/WebTechnologies/HTTP/HTTP.md",
     "BackEnd/WebTechnologies/HTTP/Content-Type header.md",
     "2024-04-22.md",
     "2024-04-19.md",
-    "BackEnd/WebTechnologies/HTTP/HTTP Headers.md",
-    "BackEnd/ASP.NET Core/Model Binding.md",
     "Other/Getting Started.md",
     "BackEnd/WebTechnologies/HTTP/Request body.md",
     "BackEnd/ASP.NET Core/DI-контейнер.md",
