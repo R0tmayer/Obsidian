@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "BackEnd/ASP.NET Core/Model Binding.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -147,8 +147,10 @@
   },
   "active": "1092d4c147e6f6d5",
   "lastOpenFiles": [
-    "BackEnd/ASP.NET Core/DI-контейнер.md",
+    "BackEnd/WebTechnologies/HTTP/Request body.md",
+    "BackEnd/WebTechnologies/HTTP/HTTP.md",
     "BackEnd/ASP.NET Core/Model Binding.md",
+    "BackEnd/ASP.NET Core/DI-контейнер.md",
     "BackEnd/WebTechnologies/HTTP/URI.md",
     "BackEnd/WebTechnologies/HTTP/URL-URI-URN.md",
     "BackEnd/ASP.NET Core/ViewModel.md",
@@ -157,13 +159,11 @@
     "BackEnd/WebTechnologies/HTTP/Media-type formatter.md",
     "BackEnd/WebTechnologies/HTTP/Content negotiation.md",
     "BackEnd/WebTechnologies/HTTP/Route data.md",
-    "BackEnd/WebTechnologies/HTTP/Request body.md",
     "2024-04-19.md",
     "Sources/bs_col_1.png",
     "BackEnd/WebTechnologies/HTTP/HTTP resource representation.md",
     "BackEnd/WebTechnologies/HTTP/URL.md",
     "BackEnd/WebTechnologies/HTTP/HTTP Resource.md",
-    "BackEnd/WebTechnologies/HTTP/HTTP.md",
     "Other/Getting Started.md",
     "Other/Hotkeys.md",
     "BackEnd/WebTechnologies/HTTP/URN.md",

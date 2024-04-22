@@ -32,7 +32,7 @@ public ValuesController : ApiController
 }
 ```
 
-Если не указать [FromUri] - то параметр `location` не заполнится, потому что Web API будет пытаться найти примитивные параметры `Latituide` и `Longitude`.
+Если не указать [FromUri] - то параметр `location` не заполнится, потому что Web API будет пытаться найти в экшне примитивные параметры `Latituide` и `Longitude`.
 
 Т.е. роут должен был выглядеть так:
 ```csharp
@@ -41,3 +41,25 @@ public ValuesController : ApiController
     public HttpResponseMessage Get(double Latitude, double Longitude) { ... }
 }
 ```
+
+### [FromBody]
+
+Пришёл такой [[HTTP]]]:
+```http
+POST http://localhost:5076/api/values HTTP/1.1
+User-Agent: Fiddler
+Host: localhost:5076
+Content-Type: application/json
+Content-Length: 7
+
+"Alice"
+```
+
+Чтобы прочитать значение `Alice` нужно явно указать атрибут [FromBody]. В таком случае Web 
+API смотрит в [[Content-Type header]] чтобы определить [[Media-type formatter]]. В этом примере [[Content-Type header]] это `application-json` и [[Request body]]
+ 
+Пример:
+```csharp
+public HttpResponseMessage Post([FromBody] string name) { ... }
+```
+
