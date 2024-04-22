@@ -41,3 +41,5 @@
 Манипулируя переменными `isActive` или `hasError` - будем появляться\удаляться `active`, `text-danger`
 
 ![[Pasted image 20240423094041.png]]
+
+Или с помощью [[Options#^065cfa]] 
