@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BackEnd/ASP.NET Core/Model Binding.md",
+                "file": "BackEnd/WebTechnologies/HTTP/HTTP.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BackEnd/WebTechnologies/HTTP/HTTP.md",
+                "file": "Other/Getting Started.md",
                 "mode": "source",
                 "source": false
               }
@@ -172,11 +172,13 @@
   },
   "active": "cd1e5dd22331e798",
   "lastOpenFiles": [
-    "BackEnd/WebTechnologies/HTTP/HTTP resource representation.md",
-    "BackEnd/ASP.NET Core/Model Binding.md",
+    "Other/Getting Started.md",
     "BackEnd/WebTechnologies/HTTP/HTTP.md",
     "BackEnd/WebTechnologies/HTTP/HTTP Resource.md",
     "BackEnd/ASP.NET Core/ViewModel.md",
+    "BackEnd/ASP.NET Core/Model Binding.md",
+    "Other/Hotkeys.md",
+    "BackEnd/WebTechnologies/HTTP/HTTP resource representation.md",
     "2024-04-22.md",
     "BackEnd/WebTechnologies/HTTP/URI.md",
     "BackEnd/WebTechnologies/HTTP/URL-URI-URN.md",
@@ -202,8 +204,6 @@
     "FrontEnd/Хуки жизненного цикла.md",
     "BackEnd/WebTechnologies",
     "FrontEnd/Vue.js/Options.md",
-    "FrontEnd/Vue.js/Модификаторы Vue.js.md",
-    "FrontEnd/Vue.js/Директивы Vue.js.md",
     "Untitled.canvas",
     "FrontEnd/Vue.js",
     "BackEnd/DotNet",

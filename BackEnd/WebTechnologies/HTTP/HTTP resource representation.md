@@ -1,4 +1,4 @@
-Например клиент делает GET запрос `/programmers/Namespacinator` и получает JSON ответ:
+Например клиент делает GET запрос `/programmers/Namespacinator` и получает JSON ответ: ^60a941
 ```json
 { 
 	"nickname": "Namespacinator", 
