@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FrontEnd/Vue.js/Bindind data.md",
-                "mode": "source",
+                "file": "FrontEnd/Vue.js/Bindind directive.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -38,13 +38,13 @@
               "type": "markdown",
               "state": {
                 "file": "FrontEnd/Vue.js/Directives Vue.js.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FrontEnd/Vue.js/Directives Vue.js.md",
+                "file": "FrontEnd/Vue.js/Bindind directive.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FrontEnd/Vue.js/Directives Vue.js.md",
+                "file": "FrontEnd/Vue.js/Bindind directive.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FrontEnd/Vue.js/Directives Vue.js.md"
+                "file": "FrontEnd/Vue.js/Bindind directive.md"
               }
             }
           }
@@ -171,10 +171,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e78c8056a56db098",
+  "active": "36e3a0ca665038fd",
   "lastOpenFiles": [
-    "FrontEnd/Vue.js/Bindind data.md",
+    "Sources/Pasted image 20240423094115.png",
+    "Sources/Pasted image 20240423094041.png",
     "FrontEnd/Vue.js/Directives Vue.js.md",
+    "FrontEnd/Vue.js/Bindind directive.md",
     "FrontEnd/Vue.js/Components.md",
     "FrontEnd/Vue.js/Options.md",
     "FrontEnd/Vue.js/Modificators Vue.js.md",
@@ -199,7 +201,6 @@
     "Other/Getting Started.md",
     "BackEnd/ASP.NET Core/DI-контейнер.md",
     "BackEnd/WebTechnologies/HTTP/URI.md",
-    "BackEnd/WebTechnologies/HTTP/Content negotiation.md",
     "Sources/bs_col_1.png",
     "BackEnd/WebTechnologies/HTTP",
     "BackEnd/WebTechnologies/MessageBrokers",
@@ -218,7 +219,6 @@
     "Sources/bs_col-md-6.png",
     "Новый текстовый документ.txt",
     "Sources/Pasted image 20240317150804.png",
-    "Sources/sql_cart-structure.png",
     "FrontEnd"
   ]
 }

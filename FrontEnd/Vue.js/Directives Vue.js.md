@@ -45,7 +45,7 @@ const showModal = ref(false);
 ```
 #### `v-bind`
 
-[[Bindind data]]
+[[Bindind directive]]
 #### `v-model`
 Осуществляет двустороннее привязывание. Меняем input - меняется data. Меняем data - меняется input.
 
