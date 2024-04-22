@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FrontEnd/Vue.js/Vue.js Summary.md",
+                "file": "BackEnd/DotNet/Collections.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FrontEnd/Vue.js/Vue.js Summary.md",
+                "file": "BackEnd/DotNet/Collections.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FrontEnd/Vue.js/Vue.js Summary.md",
+                "file": "BackEnd/DotNet/Collections.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FrontEnd/Vue.js/Vue.js Summary.md"
+                "file": "BackEnd/DotNet/Collections.md"
               }
             }
           }
@@ -146,15 +146,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5d3acd4ea37aba4c",
+  "active": "abf30d1de51e330b",
   "lastOpenFiles": [
+    "FrontEnd/Vue.js/Vue.js Summary.md",
     "FrontEnd/Vue.js/Директивы Vue.js.md",
     "FrontEnd/Хуки жизненного цикла.md",
     "FrontEnd/Vue.js/Options.md",
     "FrontEnd/Vue.js/Модификаторы Vue.js.md",
     "BackEnd/DotNet/Collections.md",
     "BackEnd/ASP.NET Core/ViewModel.md",
-    "FrontEnd/Vue.js/Vue.js Summary.md",
     "BackEnd/WebTechnologies/HTTP/Route data.md",
     "BackEnd/WebTechnologies/HTTP/Request body.md",
     "BackEnd/WebTechnologies/HTTP/Query string.md",
