@@ -11,4 +11,4 @@ HttpResponseMessage Put(int id, Product item) { ... }
 
 Чтобы извлечь значение из [[URI]], Web API смотрит в [[Route data]] и в [[Query string]]. Route Data заполняется когда система маршрутизации смогла сопоставить URI и роут.
 
-Ключевой принцип [[HTTP]] заключается в том, что ресурсы передаются в [[Request body]] с использованием [[Content negotiation]] чтобы определить [[Resource representation]]
+Ключевой принцип [[HTTP]] заключается в том, что ресурсы передаются в [[Request body]] с использованием [[Content negotiation]] чтобы определить [[HTTP resource representation]]
