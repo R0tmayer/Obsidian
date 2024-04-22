@@ -44,7 +44,7 @@ public ValuesController : ApiController
 
 ### [FromBody]
 
-Пришёл такой [[HTTP]]]:
+Пришло такой [[HTTP]]  сообщение:
 ```http
 POST http://localhost:5076/api/values HTTP/1.1
 User-Agent: Fiddler
@@ -55,11 +55,18 @@ Content-Length: 7
 "Alice"
 ```
 
+Здесь [[Request body]] - это `Alice`
+
 Чтобы прочитать значение `Alice` нужно явно указать атрибут [FromBody]. В таком случае Web 
-API смотрит в [[Content-Type header]] чтобы определить [[Media-type formatter]]. В этом примере [[Content-Type header]] это `application-json` и [[Request body]]
+API смотрит в [[Content-Type header]] чтобы определить [[Media-type formatter]]. В этом примере [[Content-Type header]] это `application-json` и [[Request body]] это raw JSON string (не JSON объект).
  
 Пример:
 ```csharp
 public HttpResponseMessage Post([FromBody] string name) { ... }
 ```
 
+
+>[!tip]- Из Request body можно прочитать единожды
+> В данном случае ни один из параметров не заполнится, Web API выдаст ошибку:
+> `public HttpResponseMessage Post([FromBody] int id, [FromBody] string name) { ... }`
+> Причина: 
