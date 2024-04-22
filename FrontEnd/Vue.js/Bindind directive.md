@@ -42,4 +42,30 @@
 
 ![[Pasted image 20240423094041.png]]
 
-Или с помощью [[Options#^065cfa]] 
+
+Или с помощью [[Options#Computed]]
+
+```js
+   <body>
+      <div id="app">
+         <div class="static" :class="classObject">test1</div>
+      </div>
+   </body>
+   <script type="module">
+      new Vue({
+         el: '#app',
+         data: {
+            isActive: true,
+            hasError: false,
+         },
+         computed: {
+            classObject() {
+               return {
+                  active: this.isActive && !this.hasError,
+                  'text-danger': this.hasError,
+               };
+            },
+         },
+      });
+   </script>
+```

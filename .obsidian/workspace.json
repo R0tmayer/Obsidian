@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FrontEnd/Vue.js/Components.md",
-                "mode": "source",
+                "file": "FrontEnd/Vue.js/Options.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "computed",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -161,10 +162,10 @@
   },
   "active": "36e3a0ca665038fd",
   "lastOpenFiles": [
+    "FrontEnd/Vue.js/Bindind directive.md",
     "FrontEnd/Vue.js/Components.md",
     "FrontEnd/Vue.js/Options.md",
     "FrontEnd/Vue.js/Directives Vue.js.md",
-    "FrontEnd/Vue.js/Bindind directive.md",
     "Options^computed.md",
     "Sources/Pasted image 20240423094115.png",
     "Sources/Pasted image 20240423094041.png",
