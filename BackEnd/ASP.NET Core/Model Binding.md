@@ -44,7 +44,7 @@ public ValuesController : ApiController
 
 ### [FromBody]
 
-Пришло такой [[HTTP]]  сообщение:
+[[HTTP]] запрос:  
 ```http
 POST http://localhost:5076/api/values HTTP/1.1
 User-Agent: Fiddler
@@ -65,8 +65,57 @@ API смотрит в [[Content-Type header]] чтобы определить [[
 public HttpResponseMessage Post([FromBody] string name) { ... }
 ```
 
+В большинстве случаев используется когда в Post нам приходит JSON:
+```http
+POST http://localhost:5076/api/values HTTP/1.1
+Content-Type: application/json
+Host: localhost:5076
+Content-Length: 49
 
+{"Name":"Alice","Age":30,"Email":"alice@example.com"}
+```
+
+```csharp
+public class User
+{
+    public string Name { get; set; }
+    public int Age { get; set; }
+    public string Email { get; set; }
+}
+
+public class ValuesController : ApiController
+{
+    public HttpResponseMessage Post([FromBody] User user)
+    {
+        // Use the user parameter to create a new user.
+        // ...
+    }
+}
+```
 >[!tip]- Нельзя использовать несколько [FromBody]
 > В данном случае ни один из параметров не заполнится, Web API выдаст ошибку:
 > `public HttpResponseMessage Post([FromBody] int id, [FromBody] string name) { ... }`
 > Причина: request body might be stored in a non-buffered stream that can only be read once.
+
+### [FromHeaders]
+
+[[HTTP]] запрос:
+```http
+GET http://localhost:5076/api/values HTTP/1.1
+Accept-Language: en-US
+Host: localhost:5076
+
+```
+
+Прочитать заголовок:
+
+```csharp
+public class ValuesController : ApiController
+{
+    public HttpResponseMessage Get([FromHeaders] string acceptLanguage)
+    {
+        // acceptLanguage = "en-US"
+    }
+}
+
+```
