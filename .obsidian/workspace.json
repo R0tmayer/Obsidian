@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BackEnd/WebTechnologies/HTTP/Route data.md",
+                "file": "FrontEnd/Хуки жизненного цикла.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BackEnd/WebTechnologies/HTTP/Route data.md",
+                "file": "FrontEnd/Хуки жизненного цикла.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BackEnd/WebTechnologies/HTTP/Route data.md",
+                "file": "FrontEnd/Хуки жизненного цикла.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BackEnd/WebTechnologies/HTTP/Route data.md"
+                "file": "FrontEnd/Хуки жизненного цикла.md"
               }
             }
           }
@@ -148,6 +148,8 @@
   },
   "active": "5d3acd4ea37aba4c",
   "lastOpenFiles": [
+    "FrontEnd/Vue.js/Vue.js Summary.md",
+    "BackEnd/WebTechnologies/HTTP/Route data.md",
     "BackEnd/WebTechnologies/HTTP/Request body.md",
     "BackEnd/WebTechnologies/HTTP/Query string.md",
     "BackEnd/WebTechnologies/HTTP/Media-type formatter.md",
@@ -165,7 +167,6 @@
     "BackEnd/WebTechnologies/HTTP/URI.md",
     "BackEnd/ASP.NET Core/ViewModel.md",
     "BackEnd/WebTechnologies/HTTP/Content negotiation.md",
-    "BackEnd/WebTechnologies/HTTP/Route data.md",
     "Sources/bs_col_1.png",
     "BackEnd/WebTechnologies/HTTP/URL.md",
     "Other/Hotkeys.md",
@@ -178,7 +179,6 @@
     "Sources/Pasted image 20240422093738.png",
     "BackEnd/ASP.NET Core/DI.md",
     "BackEnd/DotNet/IEnumerable.md",
-    "BackEnd/DotNet/Collections.md",
     "FrontEnd/Bootstrap",
     "BackEnd/WebTechnologies",
     "Untitled.canvas",
