@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BackEnd/DotNet/Collections.md",
+                "file": "BackEnd/ASP.NET Core/Model Binding.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BackEnd/DotNet/Collections.md",
+                "file": "BackEnd/ASP.NET Core/Model Binding.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BackEnd/DotNet/Collections.md",
+                "file": "BackEnd/ASP.NET Core/Model Binding.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BackEnd/DotNet/Collections.md"
+                "file": "BackEnd/ASP.NET Core/Model Binding.md"
               }
             }
           }
@@ -146,14 +146,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "abf30d1de51e330b",
+  "active": "5d3acd4ea37aba4c",
   "lastOpenFiles": [
+    "2024-04-22.md",
+    "BackEnd/ASP.NET Core/Model Binding.md",
+    "BackEnd/DotNet/Collections.md",
     "FrontEnd/Vue.js/Vue.js Summary.md",
     "FrontEnd/Vue.js/Директивы Vue.js.md",
     "FrontEnd/Хуки жизненного цикла.md",
     "FrontEnd/Vue.js/Options.md",
     "FrontEnd/Vue.js/Модификаторы Vue.js.md",
-    "BackEnd/DotNet/Collections.md",
     "BackEnd/ASP.NET Core/ViewModel.md",
     "BackEnd/WebTechnologies/HTTP/Route data.md",
     "BackEnd/WebTechnologies/HTTP/Request body.md",
@@ -163,10 +165,8 @@
     "BackEnd/WebTechnologies/HTTP/URL-URI-URN.md",
     "BackEnd/WebTechnologies/HTTP/HTTP Headers.md",
     "BackEnd/WebTechnologies/HTTP/HTTP.md",
-    "BackEnd/ASP.NET Core/Model Binding.md",
     "BackEnd/WebTechnologies/HTTP/HTTP Resource.md",
     "BackEnd/WebTechnologies/HTTP/HTTP resource representation.md",
-    "2024-04-22.md",
     "2024-04-19.md",
     "Other/Getting Started.md",
     "BackEnd/ASP.NET Core/DI-контейнер.md",
