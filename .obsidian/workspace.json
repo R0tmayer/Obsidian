@@ -11,8 +11,12 @@
             "id": "370f7feec666f249",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "BackEnd/WebTechnologies/HTTP/HTTP Resource.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -92,6 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "BackEnd/WebTechnologies/HTTP/HTTP Resource.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,6 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "BackEnd/WebTechnologies/HTTP/HTTP Resource.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "BackEnd/WebTechnologies/HTTP/HTTP Resource.md"
+              }
             }
           }
         ]
@@ -137,26 +145,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "abf30d1de51e330b",
+  "active": "370f7feec666f249",
   "lastOpenFiles": [
+    "BackEnd/WebTechnologies/HTTP/HTTP resource representation.md",
+    "BackEnd/WebTechnologies/HTTP/Media-type formatter.md",
+    "BackEnd/WebTechnologies/HTTP/Query string.md",
+    "BackEnd/WebTechnologies/HTTP/HTTP.md",
+    "BackEnd/WebTechnologies/HTTP/Content-Type header.md",
     "2024-04-22.md",
     "2024-04-19.md",
     "BackEnd/WebTechnologies/HTTP/HTTP Headers.md",
     "BackEnd/ASP.NET Core/Model Binding.md",
     "Other/Getting Started.md",
-    "BackEnd/WebTechnologies/HTTP/Content-Type header.md",
     "BackEnd/WebTechnologies/HTTP/Request body.md",
-    "BackEnd/WebTechnologies/HTTP/HTTP.md",
     "BackEnd/ASP.NET Core/DI-контейнер.md",
     "BackEnd/WebTechnologies/HTTP/URI.md",
     "BackEnd/WebTechnologies/HTTP/URL-URI-URN.md",
     "BackEnd/ASP.NET Core/ViewModel.md",
-    "BackEnd/WebTechnologies/HTTP/Query string.md",
-    "BackEnd/WebTechnologies/HTTP/Media-type formatter.md",
     "BackEnd/WebTechnologies/HTTP/Content negotiation.md",
     "BackEnd/WebTechnologies/HTTP/Route data.md",
     "Sources/bs_col_1.png",
-    "BackEnd/WebTechnologies/HTTP/HTTP resource representation.md",
     "BackEnd/WebTechnologies/HTTP/URL.md",
     "BackEnd/WebTechnologies/HTTP/HTTP Resource.md",
     "Other/Hotkeys.md",
