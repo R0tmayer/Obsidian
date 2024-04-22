@@ -14,3 +14,30 @@ HttpResponseMessage Put(int id, Product item) { ... }
 Ключевой принцип [[HTTP]] заключается в том, что ресурсы передаются в [[Request body]] с использованием [[Content negotiation]] чтобы определить [[HTTP resource representation]]
 
 ### [FromUri]
+По умолчанию сложные типы читаются из [[Request body]], используя [[Media-type formatter]]. Но иногда может потребоваться преобразовать параметры из [[Query string]] в сложный тип
+
+Например:
+```csharp
+http://localhost/api/values/?Latitude=47.678558&Longitude=-122.130989
+
+public class GeoPoint
+{
+    public double Latitude { get; set; } 
+    public double Longitude { get; set; }
+}
+
+public ValuesController : ApiController
+{
+    public HttpResponseMessage Get([FromUri] GeoPoint location) { ... }
+}
+```
+
+Если не указать [FromUri] - то параметр `location` не заполнится, потому что Web API будет пытаться найти примитивные параметры `Latituide` и `Longitude`.
+
+Т.е. роут должен был выглядеть так:
+```csharp
+public ValuesController : ApiController
+{
+    public HttpResponseMessage Get(double Latitude, double Longitude) { ... }
+}
+```
