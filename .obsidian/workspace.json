@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2662d2d247f7b9f1",
+        "id": "9830db46c2d5f8cc",
         "type": "tabs",
         "children": [
           {
-            "id": "cfb45748edc1923b",
+            "id": "1092d4c147e6f6d5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-04-22.md",
+                "file": "BackEnd/ASP.NET Core/Model Binding.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-04-22.md",
+                "file": "BackEnd/ASP.NET Core/Model Binding.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-04-22.md",
+                "file": "BackEnd/ASP.NET Core/Model Binding.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-04-22.md"
+                "file": "BackEnd/ASP.NET Core/Model Binding.md"
               }
             }
           }
@@ -145,21 +145,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cfb45748edc1923b",
+  "active": "1092d4c147e6f6d5",
   "lastOpenFiles": [
-    "Content negotiation.md",
-    "2024-04-22.md",
+    "BackEnd/ASP.NET Core/DI-контейнер.md",
     "BackEnd/ASP.NET Core/Model Binding.md",
-    "BackEnd/WebTechnologies/HTTP/HTTP resource representation.md",
+    "BackEnd/WebTechnologies/HTTP/URI.md",
+    "BackEnd/WebTechnologies/HTTP/URL-URI-URN.md",
     "BackEnd/ASP.NET Core/ViewModel.md",
+    "2024-04-22.md",
+    "BackEnd/WebTechnologies/HTTP/Query string.md",
+    "BackEnd/WebTechnologies/HTTP/Media-type formatter.md",
+    "BackEnd/WebTechnologies/HTTP/Content negotiation.md",
+    "BackEnd/WebTechnologies/HTTP/Route data.md",
+    "BackEnd/WebTechnologies/HTTP/Request body.md",
+    "2024-04-19.md",
+    "Sources/bs_col_1.png",
+    "BackEnd/WebTechnologies/HTTP/HTTP resource representation.md",
     "BackEnd/WebTechnologies/HTTP/URL.md",
     "BackEnd/WebTechnologies/HTTP/HTTP Resource.md",
-    "BackEnd/WebTechnologies/HTTP/URI.md",
     "BackEnd/WebTechnologies/HTTP/HTTP.md",
     "Other/Getting Started.md",
     "Other/Hotkeys.md",
-    "BackEnd/WebTechnologies/HTTP/URL-URI-URN.md",
-    "2024-04-19.md",
     "BackEnd/WebTechnologies/HTTP/URN.md",
     "BackEnd/WebTechnologies/MessageBrokers/RabbitMq.md",
     "BackEnd/WebTechnologies/HTTP",
@@ -167,17 +173,12 @@
     "BackEnd/WebTechnologies/MessageBrokers",
     "Sources/Pasted image 20240422093952.png",
     "Sources/Pasted image 20240422093738.png",
-    "BackEnd/ASP.NET Core/DI-контейнер.md",
     "BackEnd/ASP.NET Core/DI.md",
     "BackEnd/DotNet/IEnumerable.md",
     "BackEnd/DotNet/Collections.md",
     "BackEnd/SQL/SQL Tips.md",
     "BackEnd/SQL/SQL СУБД.md",
-    "BackEnd/SQL/Dynamic SQL code.md",
-    "FrontEnd/Bootstrap/Bootstrap Summary.md",
-    "conflict-files-obsidian-git.md",
     "FrontEnd/Bootstrap",
-    "FrontEnd/Хуки жизненного цикла.md",
     "BackEnd/WebTechnologies",
     "Untitled.canvas",
     "FrontEnd/Vue.js",
@@ -188,7 +189,6 @@
     "Sources/bs_col-sm-5.png",
     "Sources/bs_offset-2.png",
     "Sources/bs_col-md-6.png",
-    "Sources/bs_col_1.png",
     "Новый текстовый документ.txt",
     "Sources/Pasted image 20240317150804.png",
     "Sources/sql_cart-structure.png",

@@ -13,4 +13,4 @@ HttpResponseMessage Put(int id, Product item) { ... }
 
 Ключевой принцип [[HTTP]] заключается в том, что ресурсы передаются в [[Request body]] с использованием [[Content negotiation]] чтобы определить [[HTTP resource representation]]
 
-### 
+### [FromUri]
