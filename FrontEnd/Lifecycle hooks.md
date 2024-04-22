@@ -15,3 +15,4 @@ text
 ### destroyed
 text
 
+![[Pasted image 20240423090521.png]]
