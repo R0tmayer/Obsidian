@@ -15,6 +15,7 @@
               "state": {
                 "file": "BackEnd/WebTechnologies/HTTP/HTTP Resource.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
@@ -102,7 +103,7 @@
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
+                "backlinkCollapsed": true,
                 "unlinkedCollapsed": true
               }
             }
@@ -129,7 +130,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
