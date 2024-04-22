@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FrontEnd/Lifecycle hooks.md",
-                "mode": "preview",
+                "file": "FrontEnd/Vue.js/Options.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FrontEnd/Lifecycle hooks.md",
+                "file": "FrontEnd/Vue.js/Options.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FrontEnd/Lifecycle hooks.md",
+                "file": "FrontEnd/Vue.js/Options.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FrontEnd/Lifecycle hooks.md"
+                "file": "FrontEnd/Vue.js/Options.md"
               }
             }
           }
@@ -148,12 +148,12 @@
   },
   "active": "65a528239371ea5e",
   "lastOpenFiles": [
-    "Sources/Pasted image 20240423090521.png",
+    "FrontEnd/Vue.js/Components.md",
     "FrontEnd/Vue.js/Directives Vue.js.md",
     "FrontEnd/Vue.js/Modificators Vue.js.md",
     "FrontEnd/Lifecycle hooks.md",
+    "Sources/Pasted image 20240423090521.png",
     "FrontEnd/Vue.js/Vue.js Summary.md",
-    "FrontEnd/Vue.js/Components.md",
     "FrontEnd/Vue.js/Options.md",
     "BackEnd/ASP.NET Core/Model Binding.md",
     "BackEnd/ASP.NET Core/ViewModel.md",
@@ -193,7 +193,6 @@
     "Новый текстовый документ.txt",
     "Sources/Pasted image 20240317150804.png",
     "Sources/sql_cart-structure.png",
-    "Sources/bs_col_2.png",
     "FrontEnd"
   ]
 }
