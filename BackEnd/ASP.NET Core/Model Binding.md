@@ -93,7 +93,7 @@ public class ValuesController : ApiController
 }
 ```
 >[!tip]- Нельзя использовать несколько [FromBody]
-> В данном случае ни один из параметров не заполнится, Web API выдаст ошибку:
+> В данном случае ни один из параметров не заполнится, Web API выдаст ошибку (нужно проверить):
 > `public HttpResponseMessage Post([FromBody] int id, [FromBody] string name) { ... }`
 > Причина: request body might be stored in a non-buffered stream that can only be read once.
 
