@@ -8,4 +8,22 @@
 ### [[HTTP resource representation]]
 
 >[!tip]- HTTP resource representation
-> ![[HTTP resource representation#^60a941]]
+> ![[HTTP resource representation]]
+
+### Примеры
+
+- Ресурс: программист
+    
+    - Параметры: nickname, powerLevel, email, location, skills
+    - Представление: JSON-объект, содержащий информацию о программисте
+    
+
+```json
+{ 
+	"nickname": "Namespacinator", 
+	"powerLevel": 5, 
+	"email": "namespacinator@example.com", 
+	"location": "New York, NY", 
+	"skills": ["C#", "Java", "Python"] 
+}
+```
