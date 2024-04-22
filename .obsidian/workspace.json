@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "cd1e5dd22331e798",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Resource representation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -96,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BackEnd/ASP.NET Core/Model Binding.md",
+                "file": "Resource representation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BackEnd/ASP.NET Core/Model Binding.md",
+                "file": "Resource representation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BackEnd/ASP.NET Core/Model Binding.md"
+                "file": "Resource representation.md"
               }
             }
           }
@@ -145,11 +158,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "65be8ab65b429255",
+  "active": "cd1e5dd22331e798",
   "lastOpenFiles": [
+    "BackEnd/ASP.NET Core/Model Binding.md",
+    "Resource representation.md",
     "BackEnd/ASP.NET Core/ViewModel.md",
     "BackEnd/WebTechnologies/HTTP/HTTP.md",
-    "BackEnd/ASP.NET Core/Model Binding.md",
     "2024-04-22.md",
     "BackEnd/WebTechnologies/HTTP/URI.md",
     "BackEnd/WebTechnologies/HTTP/URL-URI-URN.md",
