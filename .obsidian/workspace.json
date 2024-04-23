@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FrontEnd/Vue.js/Vue.js Summary.md",
+                "file": "FrontEnd/Vue.js/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FrontEnd/Vue.js/Vue.js Summary.md",
+                "file": "FrontEnd/Vue.js/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FrontEnd/Vue.js/Vue.js Summary.md",
+                "file": "FrontEnd/Vue.js/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FrontEnd/Vue.js/Vue.js Summary.md"
+                "file": "FrontEnd/Vue.js/Untitled.md"
               }
             }
           }
@@ -161,6 +161,8 @@
   },
   "active": "36e3a0ca665038fd",
   "lastOpenFiles": [
+    "FrontEnd/Vue.js/Vue.js Summary.md",
+    "FrontEnd/Vue.js/Untitled.md",
     "FrontEnd/Vue.js/Components.md",
     "FrontEnd/Vue.js/Bindind directive.md",
     "FrontEnd/Vue.js/Modificators Vue.js.md",
@@ -171,7 +173,6 @@
     "Sources/Pasted image 20240423094041.png",
     "FrontEnd/Lifecycle hooks.md",
     "Sources/Pasted image 20240423090521.png",
-    "FrontEnd/Vue.js/Vue.js Summary.md",
     "BackEnd/ASP.NET Core/Model Binding.md",
     "BackEnd/ASP.NET Core/ViewModel.md",
     "2024-04-22.md",
@@ -189,7 +190,6 @@
     "2024-04-19.md",
     "Other/Getting Started.md",
     "BackEnd/ASP.NET Core/DI-контейнер.md",
-    "BackEnd/WebTechnologies/HTTP/URI.md",
     "Sources/bs_col_1.png",
     "BackEnd/WebTechnologies/HTTP",
     "BackEnd/WebTechnologies/MessageBrokers",
