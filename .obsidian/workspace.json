@@ -20,13 +20,13 @@
             }
           },
           {
-            "id": "36e3a0ca665038fd",
+            "id": "1768dd8ccd45cc27",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FrontEnd/Vue.js/Untitled.md",
-                "mode": "source",
+                "file": "FrontEnd/Vue.js/Vue.js Summary.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FrontEnd/Vue.js/Untitled.md",
+                "file": "FrontEnd/Vue.js/Vue.js Summary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FrontEnd/Vue.js/Untitled.md",
+                "file": "FrontEnd/Vue.js/Vue.js Summary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FrontEnd/Vue.js/Untitled.md"
+                "file": "FrontEnd/Vue.js/Vue.js Summary.md"
               }
             }
           }
@@ -159,14 +159,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "36e3a0ca665038fd",
+  "active": "1768dd8ccd45cc27",
   "lastOpenFiles": [
+    "FrontEnd/Vue.js/Vue.js 2.7.md",
     "FrontEnd/Vue.js/Vue.js Summary.md",
-    "FrontEnd/Vue.js/Untitled.md",
+    "FrontEnd/Vue.js/Options.md",
     "FrontEnd/Vue.js/Components.md",
     "FrontEnd/Vue.js/Bindind directive.md",
     "FrontEnd/Vue.js/Modificators Vue.js.md",
-    "FrontEnd/Vue.js/Options.md",
     "FrontEnd/Vue.js/Directives Vue.js.md",
     "Options^computed.md",
     "Sources/Pasted image 20240423094115.png",
