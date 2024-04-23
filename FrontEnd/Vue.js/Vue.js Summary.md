@@ -9,6 +9,7 @@ npm run dev
 ### Что такое script setup?
 Чтобы код работал нужно добавить атрибут `setup` в секцию `<script>`:
 ```js
+// Vue3
 <script setup>
 import { ref } from 'vue';
 const count = ref(5);
