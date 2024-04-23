@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FrontEnd/Vue.js/Components.md",
+                "file": "FrontEnd/Vue.js/Vue.js Summary.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FrontEnd/Vue.js/Components.md",
+                "file": "FrontEnd/Vue.js/Vue.js Summary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FrontEnd/Vue.js/Components.md",
+                "file": "FrontEnd/Vue.js/Vue.js Summary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FrontEnd/Vue.js/Components.md"
+                "file": "FrontEnd/Vue.js/Vue.js Summary.md"
               }
             }
           }
@@ -161,10 +161,10 @@
   },
   "active": "36e3a0ca665038fd",
   "lastOpenFiles": [
+    "FrontEnd/Vue.js/Components.md",
     "FrontEnd/Vue.js/Bindind directive.md",
     "FrontEnd/Vue.js/Modificators Vue.js.md",
     "FrontEnd/Vue.js/Options.md",
-    "FrontEnd/Vue.js/Components.md",
     "FrontEnd/Vue.js/Directives Vue.js.md",
     "Options^computed.md",
     "Sources/Pasted image 20240423094115.png",

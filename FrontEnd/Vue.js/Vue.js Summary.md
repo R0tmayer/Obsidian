@@ -1,8 +1,8 @@
 Install and run project (need installed npm 10.5.0 `npm -v`):
 ```bash
-npm init vue@latest
-cd VueCounterApp
-npm install // каждый раз при создании проекта
+npm create vue@^2
+cd vue-project
+npm install
 npm run dev
 ```
 
