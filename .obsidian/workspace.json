@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FrontEnd/Vue.js/Vue.js Summary.md",
+                "file": "FrontEnd/Vue.js/Modificators Vue.js.md",
                 "mode": "preview",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FrontEnd/Vue.js/Vue.js Summary.md",
+                "file": "FrontEnd/Vue.js/Modificators Vue.js.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FrontEnd/Vue.js/Vue.js Summary.md",
+                "file": "FrontEnd/Vue.js/Modificators Vue.js.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FrontEnd/Vue.js/Vue.js Summary.md"
+                "file": "FrontEnd/Vue.js/Modificators Vue.js.md"
               }
             }
           }
@@ -161,9 +161,9 @@
   },
   "active": "1768dd8ccd45cc27",
   "lastOpenFiles": [
-    "FrontEnd/Vue.js/Vue.js 2.7.md",
-    "FrontEnd/Vue.js/Vue.js Summary.md",
     "FrontEnd/Vue.js/Options.md",
+    "FrontEnd/Vue.js/Vue.js Summary.md",
+    "FrontEnd/Vue.js/Vue.js 2.7.md",
     "FrontEnd/Vue.js/Components.md",
     "FrontEnd/Vue.js/Bindind directive.md",
     "FrontEnd/Vue.js/Modificators Vue.js.md",
