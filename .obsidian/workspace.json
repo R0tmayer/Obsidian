@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FrontEnd/Vue.js/Options.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1768dd8ccd45cc27",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FrontEnd/Vue.js/Modificators Vue.js.md",
+                "file": "BackEnd/ASP.NET Core/Model Binding.md",
                 "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FrontEnd/Vue.js/Modificators Vue.js.md",
+                "file": "BackEnd/ASP.NET Core/Model Binding.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FrontEnd/Vue.js/Modificators Vue.js.md",
+                "file": "BackEnd/ASP.NET Core/Model Binding.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FrontEnd/Vue.js/Modificators Vue.js.md"
+                "file": "BackEnd/ASP.NET Core/Model Binding.md"
               }
             }
           }
@@ -159,37 +146,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1768dd8ccd45cc27",
+  "active": "65a528239371ea5e",
   "lastOpenFiles": [
+    "BackEnd/WebTechnologies/HTTP/Media-type formatter.md",
+    "BackEnd/ASP.NET Core/Model Binding.md",
+    "BackEnd/ASP.NET Core/ViewModel.md",
     "FrontEnd/Vue.js/Options.md",
+    "2024-04-22.md",
+    "2024-04-19.md",
+    "BackEnd/WebTechnologies/HTTP/URN.md",
+    "BackEnd/WebTechnologies/HTTP/URL-URI-URN.md",
+    "BackEnd/WebTechnologies/HTTP/URL.md",
+    "BackEnd/WebTechnologies/HTTP/URI.md",
+    "BackEnd/WebTechnologies/HTTP/Route data.md",
+    "BackEnd/WebTechnologies/HTTP/Request body.md",
+    "BackEnd/WebTechnologies/HTTP/Query string.md",
+    "BackEnd/WebTechnologies/HTTP/HTTP resource representation.md",
+    "BackEnd/WebTechnologies/HTTP/HTTP.md",
+    "BackEnd/WebTechnologies/HTTP/HTTP Headers.md",
+    "Other/Getting Started.md",
+    "FrontEnd/Lifecycle hooks.md",
+    "FrontEnd/Vue.js/Modificators Vue.js.md",
     "FrontEnd/Vue.js/Vue.js Summary.md",
     "FrontEnd/Vue.js/Vue.js 2.7.md",
     "FrontEnd/Vue.js/Components.md",
     "FrontEnd/Vue.js/Bindind directive.md",
-    "FrontEnd/Vue.js/Modificators Vue.js.md",
     "FrontEnd/Vue.js/Directives Vue.js.md",
     "Options^computed.md",
     "Sources/Pasted image 20240423094115.png",
     "Sources/Pasted image 20240423094041.png",
-    "FrontEnd/Lifecycle hooks.md",
     "Sources/Pasted image 20240423090521.png",
-    "BackEnd/ASP.NET Core/Model Binding.md",
-    "BackEnd/ASP.NET Core/ViewModel.md",
-    "2024-04-22.md",
     "BackEnd/DotNet/Collections.md",
-    "BackEnd/WebTechnologies/HTTP/Route data.md",
-    "BackEnd/WebTechnologies/HTTP/Request body.md",
-    "BackEnd/WebTechnologies/HTTP/Query string.md",
-    "BackEnd/WebTechnologies/HTTP/Media-type formatter.md",
-    "BackEnd/WebTechnologies/HTTP/Content-Type header.md",
-    "BackEnd/WebTechnologies/HTTP/URL-URI-URN.md",
-    "BackEnd/WebTechnologies/HTTP/HTTP Headers.md",
-    "BackEnd/WebTechnologies/HTTP/HTTP.md",
-    "BackEnd/WebTechnologies/HTTP/HTTP Resource.md",
-    "BackEnd/WebTechnologies/HTTP/HTTP resource representation.md",
-    "2024-04-19.md",
-    "Other/Getting Started.md",
-    "BackEnd/ASP.NET Core/DI-контейнер.md",
     "Sources/bs_col_1.png",
     "BackEnd/WebTechnologies/HTTP",
     "BackEnd/WebTechnologies/MessageBrokers",
