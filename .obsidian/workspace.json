@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "50a46306964e7410",
+        "id": "21707099598c07de",
         "type": "tabs",
         "children": [
           {
-            "id": "65a528239371ea5e",
+            "id": "0561082bf012821e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BackEnd/ASP.NET Core/Model Binding.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -96,7 +92,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BackEnd/ASP.NET Core/Model Binding.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +108,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BackEnd/ASP.NET Core/Model Binding.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "BackEnd/ASP.NET Core/Model Binding.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -146,10 +138,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "65a528239371ea5e",
+  "active": "abf30d1de51e330b",
   "lastOpenFiles": [
-    "BackEnd/WebTechnologies/HTTP/Media-type formatter.md",
+    "BackEnd/WebTechnologies/HTTP/HTTP Resource.md",
     "BackEnd/ASP.NET Core/Model Binding.md",
+    "BackEnd/WebTechnologies/HTTP/Media-type formatter.md",
     "BackEnd/ASP.NET Core/ViewModel.md",
     "FrontEnd/Vue.js/Options.md",
     "2024-04-22.md",
@@ -176,7 +169,6 @@
     "Sources/Pasted image 20240423094115.png",
     "Sources/Pasted image 20240423094041.png",
     "Sources/Pasted image 20240423090521.png",
-    "BackEnd/DotNet/Collections.md",
     "Sources/bs_col_1.png",
     "BackEnd/WebTechnologies/HTTP",
     "BackEnd/WebTechnologies/MessageBrokers",
