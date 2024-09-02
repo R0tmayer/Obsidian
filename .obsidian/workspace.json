@@ -148,6 +148,7 @@
   },
   "active": "0561082bf012821e",
   "lastOpenFiles": [
+    "BackEnd/EF Core",
     "BackEnd/DotNet/IEnumerable.md",
     "BackEnd/DotNet/Collections.md",
     "BackEnd/ASP.NET Core/DI.md",
@@ -173,7 +174,6 @@
     "FrontEnd/Vue.js/Modificators Vue.js.md",
     "FrontEnd/Vue.js/Vue.js Summary.md",
     "FrontEnd/Vue.js/Vue.js 2.7.md",
-    "FrontEnd/Vue.js/Components.md",
     "Sources/Pasted image 20240423094115.png",
     "Sources/Pasted image 20240423094041.png",
     "Sources/Pasted image 20240423090521.png",
