@@ -1,9 +1,9 @@
-Всего существует 3 подхода чтобы связать Principal (parent) и Dependent (child):
+Всего существует 3 основных подхода чтобы связать Principal (parent) и Dependent (child):
 1. Required one-to-many
 2. One-to-many without navigation to principal
 3. Required one-to-many with shadow foreign key
 
-####  Required one-to-many
+####  Required one-to-many (оптимальный)
 Самый простой способ. Foreign key у зависимой сущности присваивается автоматически
 
 ```csharp
@@ -35,7 +35,7 @@ public class Post
 ```
 
 #### One-to-many without navigation to principal
-Если в зависимой сущности не хочется указывать навигационное поле `Blog Blog`, то придётся делать так:
+Если в зависимой сущности не хочется указывать навигационное поле `Blog Blog`:
 ```csharp
 // Principal (parent)
 public class Blog
@@ -76,7 +76,7 @@ protected override void OnModelCreating(ModelBuilder modelBuilder)
 ```
 
 #### Required one-to-many with shadow foreign key
-Если хочется указать только навигационное поле `Blog Blog`:
+Если не хочется указывать foreign key `int BlogId`:
 ```csharp
 // Principal (parent)
 public class Blog
@@ -89,5 +89,7 @@ public class Blog
 public class Post
 {
     public int Id { get; set; }
+    public Blog Blog { get; set; } = null!; // Required reference navigation to principal
 }
 ```
+Но тогда EF Core автоматом создаст "скрытое" поле BlogId. Считаю данный способ неочевидным.
