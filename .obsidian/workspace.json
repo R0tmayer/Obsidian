@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "4e324098cf62192e",
+        "id": "bc0dfb59262c866c",
         "type": "tabs",
         "children": [
           {
-            "id": "44c09950e275dce6",
+            "id": "a788c2e41fe0b2cf",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "BackEnd/EF Core/One-to-many relationships.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -92,6 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "BackEnd/EF Core/One-to-many relationships.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,6 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "BackEnd/EF Core/One-to-many relationships.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "BackEnd/EF Core/One-to-many relationships.md"
+              }
             }
           }
         ],
@@ -126,7 +134,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 310.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -138,10 +146,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "44c09950e275dce6",
+  "active": "a788c2e41fe0b2cf",
   "lastOpenFiles": [
     "BackEnd/DotNet/IEnumerable.md",
     "BackEnd/DotNet/Collections.md",
+    "BackEnd/EF Core/One-to-many relationships.md",
     "IReadOnlyList.md",
     "BackEnd/EF Core",
     "BackEnd/ASP.NET Core/DI.md",
@@ -166,7 +175,6 @@
     "FrontEnd/Lifecycle hooks.md",
     "FrontEnd/Vue.js/Modificators Vue.js.md",
     "FrontEnd/Vue.js/Vue.js Summary.md",
-    "FrontEnd/Vue.js/Vue.js 2.7.md",
     "Sources/Pasted image 20240423094115.png",
     "Sources/Pasted image 20240423094041.png",
     "Sources/Pasted image 20240423090521.png",
