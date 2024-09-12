@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-04-19.md",
+                "file": "BackEnd/DotNet/DI.md",
                 "mode": "preview",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-04-19.md",
+                "file": "BackEnd/DotNet/DI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-04-19.md",
+                "file": "BackEnd/DotNet/DI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-04-19.md"
+                "file": "BackEnd/DotNet/DI.md"
               }
             }
           }
@@ -148,14 +148,15 @@
   },
   "active": "a788c2e41fe0b2cf",
   "lastOpenFiles": [
-    "2024-04-22.md",
+    "BackEnd/DotNet/DI-контейнер.md",
+    "BackEnd/DotNet/DI.md",
+    "BackEnd/DotNet/Collections.md",
     "2024-04-19.md",
+    "2024-04-22.md",
     "BackEnd/EF Core/One-to-many relationships.md",
     "BackEnd/DotNet/IEnumerable.md",
-    "BackEnd/DotNet/Collections.md",
     "IReadOnlyList.md",
     "BackEnd/EF Core",
-    "BackEnd/ASP.NET Core/DI.md",
     "BackEnd/WebTechnologies/HTTP/HTTP Resource.md",
     "BackEnd/ASP.NET Core/Model Binding.md",
     "BackEnd/WebTechnologies/HTTP/Media-type formatter.md",
@@ -174,7 +175,6 @@
     "Other/Getting Started.md",
     "FrontEnd/Lifecycle hooks.md",
     "FrontEnd/Vue.js/Modificators Vue.js.md",
-    "FrontEnd/Vue.js/Vue.js Summary.md",
     "Sources/Pasted image 20240423094115.png",
     "Sources/Pasted image 20240423094041.png",
     "Sources/Pasted image 20240423090521.png",

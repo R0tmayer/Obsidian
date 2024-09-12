@@ -1,11 +1,11 @@
-Dependency Injection - механизм, позволяющий зарегистрировать любой класс в DI-контейнере, а затем получить любой сервис из [[DI-контейнер]].
+Dependency Injection - механизм, позволяющий в одном месте зарегистрировать любые классы в [[DI-контейнер]], а затем получать эти классы в любом месте приложения.
 
 Более подробный код здесь: https://github.com/T0shik/raw-coding-101-tutorials/blob/main/Dependency%20Injection/resolver_container.linq
 Видео: https://www.youtube.com/watch?v=NkTF_6IQPiY&t=5s
 
 ###  1. Регистрация сервисов в DI-контейнер
 
-Cначала нужно положить сервисы в [[DI-контейнер]] ()
+Cначала нужно положить сервисы в DI-контейнер:
 
 ```csharp
 builder.Services.AddSingleton<DBStorage>();  
@@ -13,7 +13,7 @@ builder.Services.AddScoped<IProductService, ProductService>();
 builder.Services.AddScoped<ICartService, CartService>();
 ```
 
-Внутри AddScoped сервис добавляется в лист [[DI-контейнер#^5011f3]] с указанием enum - Scoped (аналогично AddSingleton/AddTransient)
+Внутри AddScoped сервис добавляется в лист DI-контейнера с указанием enum - Scoped (аналогично AddSingleton/AddTransient)
 ```csharp
 public static IServiceCollection AddScoped(this IServiceCollection services, Type serviceType, Type implementationType)  
 {  
