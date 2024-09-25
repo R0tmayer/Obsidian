@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FrontEnd/Vue.js/What is semicolon.md",
-                "mode": "preview",
+                "file": "FrontEnd/Deal with SVG.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FrontEnd/Vue.js/What is semicolon.md",
+                "file": "FrontEnd/Deal with SVG.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FrontEnd/Vue.js/What is semicolon.md",
+                "file": "FrontEnd/Deal with SVG.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FrontEnd/Vue.js/What is semicolon.md"
+                "file": "FrontEnd/Deal with SVG.md"
               }
             }
           }
@@ -148,8 +148,9 @@
   },
   "active": "a788c2e41fe0b2cf",
   "lastOpenFiles": [
-    "FrontEnd/Vue.js/Bindind directive.md",
     "FrontEnd/Vue.js/What is semicolon.md",
+    "FrontEnd/Deal with SVG.md",
+    "FrontEnd/Vue.js/Bindind directive.md",
     "BackEnd/EF Core/One-to-many relationships.md",
     "BackEnd/DotNet/DI.md",
     "BackEnd/DotNet/Collections.md",
@@ -174,7 +175,6 @@
     "BackEnd/WebTechnologies/HTTP/URL.md",
     "BackEnd/WebTechnologies/HTTP/Route data.md",
     "BackEnd/WebTechnologies/HTTP/Request body.md",
-    "BackEnd/WebTechnologies/HTTP/Query string.md",
     "Sources/Pasted image 20240423094115.png",
     "Sources/Pasted image 20240423094041.png",
     "Sources/Pasted image 20240423090521.png",
