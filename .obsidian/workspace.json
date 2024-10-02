@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FrontEnd/Typescript/Typescript.md",
+                "file": "BackEnd/DotNet/TransactionScope.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FrontEnd/Typescript/Typescript.md",
+                "file": "BackEnd/DotNet/TransactionScope.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FrontEnd/Typescript/Typescript.md",
+                "file": "BackEnd/DotNet/TransactionScope.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FrontEnd/Typescript/Typescript.md"
+                "file": "BackEnd/DotNet/TransactionScope.md"
               }
             }
           }
@@ -148,9 +148,10 @@
   },
   "active": "5eedf8f8cd609764",
   "lastOpenFiles": [
+    "FrontEnd/Typescript/Typescript.md",
+    "BackEnd/DotNet/TransactionScope.md",
     "FrontEnd/Typescript",
     "FrontEnd/Vue.js/Vue.js Summary.md",
-    "FrontEnd/Typescript/Typescript.md",
     "FrontEnd/Vue.js/Vue.js 2.7.md",
     "FrontEnd/Bootstrap/Bootstrap Summary.md",
     "FrontEnd/Deal with SVG.md",
@@ -193,7 +194,6 @@
     "Sources/bs_col-nested.png",
     "Sources/bs_col-sm-5.png",
     "Sources/bs_offset-2.png",
-    "Sources/bs_col-md-6.png",
-    "Новый текстовый документ.txt"
+    "Sources/bs_col-md-6.png"
   ]
 }
