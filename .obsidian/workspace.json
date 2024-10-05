@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "869217a8527cd459",
+        "id": "f7e57a6febd3b90a",
         "type": "tabs",
         "children": [
           {
-            "id": "5a2ca90b4f6d8af2",
+            "id": "a90ff884a5d00dc7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FrontEnd/Bootstrap/Bootstrap Summary.md",
+                "file": "FrontEnd/Vue.js/Vue.js 2.7.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0163ff22dc7470e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BackEnd/DotNet/Collections.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 287.5026054382324
+    "width": 225.5
   },
   "right": {
     "id": "64d84ec454917d98",
@@ -80,61 +93,69 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ae88021401eb70f1",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": false
-              }
-            }
-          },
-          {
-            "id": "3c412e4c804f94b2",
+            "id": "5a1cb35095ad791b",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FrontEnd/Bootstrap/Bootstrap Summary.md",
+                "file": "BackEnd/DotNet/Collections.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": true,
+                "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "6786af04c8863aa1",
+            "id": "8d6a7dd265a935ab",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FrontEnd/Bootstrap/Bootstrap Summary.md",
+                "file": "BackEnd/DotNet/Collections.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "8d5513b616cc6b80",
+            "id": "ae88021401eb70f1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "dd573a96796bb609",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "FrontEnd/Bootstrap/Bootstrap Summary.md"
+                "file": "BackEnd/DotNet/Collections.md"
               }
+            }
+          },
+          {
+            "id": "876311cf369e5ade",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 310.5
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,54 +167,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5a2ca90b4f6d8af2",
+  "active": "0163ff22dc7470e1",
   "lastOpenFiles": [
-    "FrontEnd/Deal with SVG.md",
-    "FrontEnd/Vue.js/What is semicolon.md",
-    "FrontEnd/Vue.js/Bindind directive.md",
     "BackEnd/EF Core/One-to-many relationships.md",
-    "BackEnd/DotNet/DI.md",
-    "BackEnd/DotNet/Collections.md",
-    "BackEnd/DotNet/DI-контейнер.md",
-    "BackEnd/DotNet/IEnumerable.md",
-    "BackEnd/SQL/SQL СУБД.md",
-    "BackEnd/SQL/Dynamic SQL code.md",
-    "FrontEnd/Lifecycle hooks.md",
-    "FrontEnd/Bootstrap/Bootstrap Summary.md",
-    "BackEnd/WebTechnologies/HTTP/URI.md",
-    "BackEnd/ASP.NET Core/Model Binding.md",
-    "BackEnd/ASP.NET Core/ViewModel.md",
-    "2024-04-19.md",
-    "2024-04-22.md",
-    "IReadOnlyList.md",
+    "FrontEnd/Vue.js/Vue.js 2.7.md",
+    "FrontEnd/Vue.js/What is semicolon.md",
+    "FrontEnd/Deal with SVG.md",
     "BackEnd/EF Core",
-    "BackEnd/WebTechnologies/HTTP/HTTP Resource.md",
-    "BackEnd/WebTechnologies/HTTP/Media-type formatter.md",
+    "BackEnd/DotNet/DI.md",
+    "BackEnd/DotNet/DI-контейнер.md",
+    "conflict-files-obsidian-git.md",
     "FrontEnd/Vue.js/Options.md",
-    "BackEnd/WebTechnologies/HTTP/URN.md",
-    "BackEnd/WebTechnologies/HTTP/URL-URI-URN.md",
-    "BackEnd/WebTechnologies/HTTP/URL.md",
-    "BackEnd/WebTechnologies/HTTP/Route data.md",
-    "BackEnd/WebTechnologies/HTTP/Request body.md",
+    "BackEnd/ASP.NET Core/Model Binding.md",
+    "FrontEnd/Vue.js/Bindind directive.md",
+    "FrontEnd/Vue.js/Vue.js.md",
     "Sources/Pasted image 20240423094115.png",
     "Sources/Pasted image 20240423094041.png",
     "Sources/Pasted image 20240423090521.png",
-    "Sources/bs_col_1.png",
-    "BackEnd/WebTechnologies/HTTP",
-    "BackEnd/WebTechnologies/MessageBrokers",
     "Sources/Pasted image 20240422093952.png",
     "Sources/Pasted image 20240422093738.png",
+    "FrontEnd/Vue.js/Vue.js Summary.md",
+    "FrontEnd/Vue.js/Modificators Vue.js.md",
+    "FrontEnd/Vue.js/Directives Vue.js.md",
+    "FrontEnd/Vue.js/Components.md",
+    "FrontEnd/Lifecycle hooks.md",
+    "FrontEnd/Bootstrap/Bootstrap Summary.md",
     "FrontEnd/Bootstrap",
+    "BackEnd/WebTechnologies/MessageBrokers/RabbitMq.md",
+    "BackEnd/WebTechnologies/MessageBrokers/Kafka.md",
+    "BackEnd/WebTechnologies/HTTP/URN.md",
+    "BackEnd/WebTechnologies/HTTP/URL.md",
+    "BackEnd/WebTechnologies/HTTP/URL-URI-URN.md",
+    "BackEnd/WebTechnologies/HTTP/URI.md",
+    "BackEnd/WebTechnologies/HTTP/Route data.md",
+    "BackEnd/WebTechnologies/HTTP/Request body.md",
+    "BackEnd/WebTechnologies/HTTP/Query string.md",
+    "BackEnd/WebTechnologies/MessageBrokers",
+    "BackEnd/WebTechnologies/HTTP",
     "BackEnd/WebTechnologies",
-    "Untitled.canvas",
-    "FrontEnd/Vue.js",
+    "BackEnd/SQL",
     "BackEnd/DotNet",
-    "BackEnd/ASP.NET Core",
-    "BackEnd",
+    "FrontEnd/Vue.js",
+    "Sources/Pasted image 20240317150804.png",
+    "Sources/sql_cart-structure.png",
+    "SQL",
     "Sources/bs_col-nested.png",
-    "Sources/bs_col-sm-5.png",
+    "Sources/bs_col_1.png",
     "Sources/bs_offset-2.png",
-    "Sources/bs_col-md-6.png",
-    "Новый текстовый документ.txt"
+    "Sources"
   ]
 }
