@@ -23,9 +23,11 @@
             "id": "941349662d6b0510",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.6.7"
+                "file": "BackEnd/EF Core/One-to-many relationships.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -96,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BackEnd/SQL/PostgreSQL.md",
+                "file": "BackEnd/EF Core/One-to-many relationships.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BackEnd/SQL/PostgreSQL.md",
+                "file": "BackEnd/EF Core/One-to-many relationships.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BackEnd/SQL/PostgreSQL.md"
+                "file": "BackEnd/EF Core/One-to-many relationships.md"
               }
             }
           },
