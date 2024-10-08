@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BackEnd/DotNet/TransactionScope.md",
+                "file": "BackEnd/DotNet/DI-контейнер.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BackEnd/DotNet/TransactionScope.md",
+                "file": "BackEnd/DotNet/DI-контейнер.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BackEnd/DotNet/TransactionScope.md",
+                "file": "BackEnd/DotNet/DI-контейнер.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BackEnd/DotNet/TransactionScope.md"
+                "file": "BackEnd/DotNet/DI-контейнер.md"
               }
             }
           }
@@ -148,8 +148,9 @@
   },
   "active": "5eedf8f8cd609764",
   "lastOpenFiles": [
-    "FrontEnd/Typescript/Typescript.md",
+    "BackEnd/DotNet/IEnumerable.md",
     "BackEnd/DotNet/TransactionScope.md",
+    "FrontEnd/Typescript/Typescript.md",
     "FrontEnd/Typescript",
     "FrontEnd/Vue.js/Vue.js Summary.md",
     "FrontEnd/Vue.js/Vue.js 2.7.md",
@@ -161,7 +162,6 @@
     "BackEnd/DotNet/DI.md",
     "BackEnd/DotNet/Collections.md",
     "BackEnd/DotNet/DI-контейнер.md",
-    "BackEnd/DotNet/IEnumerable.md",
     "BackEnd/SQL/SQL СУБД.md",
     "BackEnd/SQL/Dynamic SQL code.md",
     "FrontEnd/Lifecycle hooks.md",
