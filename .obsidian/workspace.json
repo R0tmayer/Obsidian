@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SwiftUI/NavigationStack.md",
+                "file": "SwiftUI/navigationTitle.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SwiftUI/NavigationStack.md",
+                "file": "SwiftUI/navigationTitle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SwiftUI/NavigationStack.md",
+                "file": "SwiftUI/navigationTitle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SwiftUI/NavigationStack.md"
+                "file": "SwiftUI/navigationTitle.md"
               }
             }
           },
@@ -169,8 +169,8 @@
   "active": "a90ff884a5d00dc7",
   "lastOpenFiles": [
     "SwiftUI/NavigationLink.md",
-    "SwiftUI/NavigationSplitView.md",
     "SwiftUI/NavigationStack.md",
+    "SwiftUI/NavigationSplitView.md",
     "Sources/Pasted image 20241016221306.png",
     "Sources/Pasted image 20241016221257.png",
     "Sources/Pasted image 20241016221248.png",
