@@ -6,4 +6,4 @@
 
 - destination - это view, которое откроется при нажатии.
 
-![[Pasted image 20241016221306.png]]
+![[Pasted image 20241016224545.png]]
