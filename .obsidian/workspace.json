@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FrontEnd/Vue.js/Vue.js 2.7.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "941349662d6b0510",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BackEnd/EF Core/One-to-many relationships.md",
+                "file": "BackEnd/ASP.NET Core/Model Binding.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "frombody",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -98,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BackEnd/EF Core/One-to-many relationships.md",
+                "file": "BackEnd/ASP.NET Core/Model Binding.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BackEnd/EF Core/One-to-many relationships.md",
+                "file": "BackEnd/ASP.NET Core/Model Binding.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BackEnd/EF Core/One-to-many relationships.md"
+                "file": "BackEnd/ASP.NET Core/Model Binding.md"
               }
             }
           },
@@ -167,13 +155,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "941349662d6b0510",
+  "active": "c765bc1e3cf553e9",
   "lastOpenFiles": [
+    "BackEnd/ASP.NET Core/ViewModel.md",
+    "BackEnd/ASP.NET Core/Model Binding.md",
+    "BackEnd/EF Core/One-to-many relationships.md",
+    "FrontEnd/Vue.js/Vue.js 2.7.md",
+    "BackEnd/WebTechnologies/HTTP/Request body.md",
     "Sources/Pasted image 20241005142056.png",
     "BackEnd/DotNet/Collections.md",
     "BackEnd/SQL/PostgreSQL.md",
-    "BackEnd/EF Core/One-to-many relationships.md",
-    "FrontEnd/Vue.js/Vue.js 2.7.md",
     "FrontEnd/Vue.js/What is semicolon.md",
     "FrontEnd/Deal with SVG.md",
     "BackEnd/EF Core",
@@ -181,7 +172,6 @@
     "BackEnd/DotNet/DI-контейнер.md",
     "conflict-files-obsidian-git.md",
     "FrontEnd/Vue.js/Options.md",
-    "BackEnd/ASP.NET Core/Model Binding.md",
     "FrontEnd/Vue.js/Bindind directive.md",
     "FrontEnd/Vue.js/Vue.js.md",
     "Sources/Pasted image 20240423094115.png",
@@ -201,7 +191,6 @@
     "BackEnd/WebTechnologies/HTTP/URN.md",
     "BackEnd/WebTechnologies/HTTP/URL.md",
     "BackEnd/WebTechnologies/HTTP/URL-URI-URN.md",
-    "BackEnd/WebTechnologies/HTTP/URI.md",
     "BackEnd/WebTechnologies/MessageBrokers",
     "BackEnd/WebTechnologies/HTTP",
     "BackEnd/WebTechnologies",
@@ -213,7 +202,6 @@
     "SQL",
     "Sources/bs_col-nested.png",
     "Sources/bs_col_1.png",
-    "Sources/bs_offset-2.png",
     "Sources"
   ]
 }
