@@ -38,7 +38,7 @@
               "type": "markdown",
               "state": {
                 "file": "SwiftUI/Properties.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -193,6 +193,7 @@
   },
   "active": "38490c99ba09b248",
   "lastOpenFiles": [
+    "Sources/Pasted image 20241017222435.png",
     "SwiftUI/View.md",
     "SwiftUI/Properties.md",
     "Sources/Pasted image 20241017215811.png",
@@ -230,7 +231,6 @@
     "FrontEnd/Vue.js/Options.md",
     "FrontEnd/Vue.js/Bindind directive.md",
     "FrontEnd/Vue.js/Vue.js.md",
-    "FrontEnd/Vue.js/Vue.js Summary.md",
     "FrontEnd/Bootstrap",
     "BackEnd/WebTechnologies/MessageBrokers",
     "BackEnd/WebTechnologies/HTTP",
