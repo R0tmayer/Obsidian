@@ -37,8 +37,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SwiftUI/Property Observers.md",
-                "mode": "source",
+                "file": "SwiftUI/Properties.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SwiftUI/Property Observers.md",
+                "file": "SwiftUI/Properties.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SwiftUI/Property Observers.md",
+                "file": "SwiftUI/Properties.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SwiftUI/Property Observers.md"
+                "file": "SwiftUI/Properties.md"
               }
             }
           },
@@ -193,8 +193,10 @@
   },
   "active": "38490c99ba09b248",
   "lastOpenFiles": [
+    "Sources/Pasted image 20241017205713.png",
+    "Sources/Pasted image 20241017205514.png",
     "SwiftUI/NavigationLink.md",
-    "SwiftUI/Property Observers.md",
+    "SwiftUI/Properties.md",
     "SwiftUI/NavigationSplitView.md",
     "SwiftUI/NavigationStack.md",
     "SwiftUI/ViewModifier.md",
@@ -211,7 +213,6 @@
     "Sources/Pasted image 20241016220905.png",
     "Sources/Pasted image 20241016220739.png",
     "Sources/Pasted image 20241016220737.png",
-    "Sources/Pasted image 20241016220557.png",
     "BackEnd/ASP.NET Core/Model Binding.md",
     "SwiftUI",
     "BackEnd/ASP.NET Core/ViewModel.md",
@@ -230,7 +231,6 @@
     "FrontEnd/Vue.js/Bindind directive.md",
     "FrontEnd/Vue.js/Vue.js.md",
     "FrontEnd/Vue.js/Vue.js Summary.md",
-    "FrontEnd/Vue.js/Modificators Vue.js.md",
     "FrontEnd/Bootstrap",
     "BackEnd/WebTechnologies/MessageBrokers",
     "BackEnd/WebTechnologies/HTTP",
