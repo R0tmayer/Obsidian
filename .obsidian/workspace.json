@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SwiftUI/NavigationLink.md",
+                "file": "SwiftUI/Property Observers.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SwiftUI/NavigationLink.md",
+                "file": "SwiftUI/Property Observers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SwiftUI/NavigationLink.md",
+                "file": "SwiftUI/Property Observers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SwiftUI/NavigationLink.md"
+                "file": "SwiftUI/Property Observers.md"
               }
             }
           },
@@ -191,13 +191,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "abf30d1de51e330b",
+  "active": "38490c99ba09b248",
   "lastOpenFiles": [
+    "SwiftUI/NavigationLink.md",
+    "SwiftUI/Property Observers.md",
     "SwiftUI/NavigationSplitView.md",
     "SwiftUI/NavigationStack.md",
     "SwiftUI/ViewModifier.md",
     "SwiftUI/navigationTitle.md",
-    "SwiftUI/NavigationLink.md",
     "SwiftUI/Form.md",
     "2024-04-22.md",
     "2024-04-19.md",
@@ -230,7 +231,6 @@
     "FrontEnd/Vue.js/Vue.js.md",
     "FrontEnd/Vue.js/Vue.js Summary.md",
     "FrontEnd/Vue.js/Modificators Vue.js.md",
-    "FrontEnd/Vue.js/Directives Vue.js.md",
     "FrontEnd/Bootstrap",
     "BackEnd/WebTechnologies/MessageBrokers",
     "BackEnd/WebTechnologies/HTTP",

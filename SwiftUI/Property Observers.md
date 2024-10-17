@@ -1,0 +1,4 @@
+- В свифте почему-то все поля называются property.
+- let и const - это stored property
+- обычное свойство с get и set - это computed property
+- свойство с willSet и didSet - это observer property
