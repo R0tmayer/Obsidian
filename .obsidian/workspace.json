@@ -16,7 +16,9 @@
                 "file": "SwiftUI/navigationTitle.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "navigationTitle"
             }
           },
           {
@@ -28,7 +30,9 @@
                 "file": "SwiftUI/NavigationSplitView.md",
                 "mode": "preview",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "NavigationSplitView"
             }
           },
           {
@@ -40,7 +44,21 @@
                 "file": "SwiftUI/Properties.md",
                 "mode": "preview",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Properties"
+            }
+          },
+          {
+            "id": "c1e6ad3dc00a1596",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.4"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.4"
             }
           },
           {
@@ -52,11 +70,13 @@
                 "file": "SwiftUI/NavigationSplitView.md",
                 "mode": "preview",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "NavigationSplitView"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -76,7 +96,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -91,7 +113,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -99,7 +123,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -122,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SwiftUI/Properties.md",
+                "file": "SwiftUI/navigationTitle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +156,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for navigationTitle"
             }
           },
           {
@@ -139,10 +167,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SwiftUI/Properties.md",
+                "file": "SwiftUI/navigationTitle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from navigationTitle"
             }
           },
           {
@@ -153,7 +183,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -162,8 +194,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SwiftUI/Properties.md"
-              }
+                "file": "SwiftUI/navigationTitle.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of navigationTitle"
             }
           },
           {
@@ -171,7 +205,9 @@
             "type": "leaf",
             "state": {
               "type": "git-view",
-              "state": {}
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
@@ -191,7 +227,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "38490c99ba09b248",
+  "active": "c1e6ad3dc00a1596",
   "lastOpenFiles": [
     "Sources/Pasted image 20241017222435.png",
     "SwiftUI/View.md",
