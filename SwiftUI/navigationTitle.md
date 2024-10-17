@@ -1,3 +1,4 @@
+- Реализует [[ViewModifier]]
 - Модификатор, применяемый к [[NavigationStack]] или [[NavigationSplitView]]
 - Обязан быть внутри скопа NavigationStack, т.к. применяется к одной из вью внутри скопа.
 - По факту, применяется к любому view внутри NavigationStack. 
