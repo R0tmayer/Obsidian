@@ -53,12 +53,14 @@
             "id": "c1e6ad3dc00a1596",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.7.4"
+                "file": "SwiftUI/Properties.md",
+                "mode": "preview",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Release Notes 1.7.4"
+              "title": "Properties"
             }
           },
           {
@@ -148,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SwiftUI/navigationTitle.md",
+                "file": "SwiftUI/Properties.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +160,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for navigationTitle"
+              "title": "Backlinks for Properties"
             }
           },
           {
@@ -167,12 +169,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SwiftUI/navigationTitle.md",
+                "file": "SwiftUI/Properties.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from navigationTitle"
+              "title": "Outgoing links from Properties"
             }
           },
           {
@@ -194,10 +196,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SwiftUI/navigationTitle.md"
+                "file": "SwiftUI/Properties.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of navigationTitle"
+              "title": "Outline of Properties"
             }
           },
           {
@@ -229,6 +231,9 @@
   },
   "active": "c1e6ad3dc00a1596",
   "lastOpenFiles": [
+    "Sources/Pasted image 20241018135757.png",
+    "Sources/Pasted image 20241018135753.png",
+    "Sources/Pasted image 20241018135743.png",
     "Sources/Pasted image 20241017222435.png",
     "SwiftUI/View.md",
     "SwiftUI/Properties.md",
@@ -247,9 +252,6 @@
     "SwiftUI/Form.md",
     "2024-04-22.md",
     "2024-04-19.md",
-    "Sources/Pasted image 20241016225628.png",
-    "Sources/Pasted image 20241016224545.png",
-    "Sources/Pasted image 20241016221306.png",
     "BackEnd/ASP.NET Core/Model Binding.md",
     "SwiftUI",
     "BackEnd/ASP.NET Core/ViewModel.md",
