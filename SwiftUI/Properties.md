@@ -82,6 +82,10 @@
 
 ![[Pasted image 20241018135757.png]]
 
+> [!NOTE]
+> Ранее, для реализации этой фичи использовались `ObservableObject`, `@Published` и `@StateObject`
+
+![[Pasted image 20241020094835.png]]
 #### @Bindable
 
 ^ffabf0
