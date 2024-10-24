@@ -13,10 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BackEnd/DotNet/Async Await.md",
+                "file": "BackEnd/DotNet/IEnumerable.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "IEnumerable"
             }
           }
         ]
@@ -39,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -48,13 +52,15 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "head",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,7 +68,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -87,7 +95,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": false
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -96,15 +106,17 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BackEnd/DotNet/Async Await.md",
+                "file": "BackEnd/DotNet/IEnumerable.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": true,
-                "unlinkedCollapsed": true
-              }
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for IEnumerable"
             }
           },
           {
@@ -113,10 +125,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BackEnd/DotNet/Async Await.md",
+                "file": "BackEnd/DotNet/IEnumerable.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from IEnumerable"
             }
           },
           {
@@ -125,12 +139,14 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BackEnd/DotNet/Async Await.md"
-              }
+                "file": "BackEnd/DotNet/IEnumerable.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of IEnumerable"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -146,35 +162,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5eedf8f8cd609764",
+  "active": "3c412e4c804f94b2",
   "lastOpenFiles": [
-    "FrontEnd/Deal with SVG.md",
+    "BackEnd/DotNet/DI-контейнер.md",
+    "BackEnd/DotNet/DI.md",
+    "BackEnd/DotNet/Collections.md",
     "BackEnd/DotNet/Async Await.md",
-    "FrontEnd/Lifecycle hooks.md",
-    "FrontEnd/Vue.js/What is semicolon.md",
-    "FrontEnd/Vue.js/Vue.js Summary.md",
-    "FrontEnd/Vue.js/Modificators Vue.js.md",
-    "FrontEnd/Vue.js/Options.md",
+    "conflict-files-obsidian-git.md",
     "FrontEnd/Vue.js/Directives Vue.js.md",
+    "FrontEnd/Vue.js/Modificators Vue.js.md",
+    "FrontEnd/Vue.js/What is semicolon.md",
+    "FrontEnd/Deal with SVG.md",
+    "FrontEnd/Lifecycle hooks.md",
+    "Sources/Pasted image 20241005142056.png",
+    "BackEnd/SQL/PostgreSQL.md",
+    "FrontEnd/Vue.js/Vue.js Summary.md",
+    "FrontEnd/Vue.js/Options.md",
     "FrontEnd/Vue.js/Components.md",
     "FrontEnd/Vue.js/Bindind directive.md",
     "FrontEnd/Typescript/Typescript.md",
-    "BackEnd/DotNet/DI-контейнер.md",
     "BackEnd/DotNet/IEnumerable.md",
     "BackEnd/DotNet/TransactionScope.md",
     "FrontEnd/Typescript",
     "FrontEnd/Vue.js/Vue.js 2.7.md",
     "FrontEnd/Bootstrap/Bootstrap Summary.md",
     "BackEnd/EF Core/One-to-many relationships.md",
-    "BackEnd/DotNet/DI.md",
-    "BackEnd/DotNet/Collections.md",
     "BackEnd/SQL/SQL СУБД.md",
     "BackEnd/SQL/Dynamic SQL code.md",
     "BackEnd/WebTechnologies/HTTP/URI.md",
     "BackEnd/ASP.NET Core/Model Binding.md",
     "BackEnd/ASP.NET Core/ViewModel.md",
-    "2024-04-19.md",
-    "2024-04-22.md",
     "BackEnd/EF Core",
     "Sources/Pasted image 20240423094115.png",
     "Sources/Pasted image 20240423094041.png",
@@ -193,7 +210,6 @@
     "BackEnd",
     "Sources/bs_col-nested.png",
     "Sources/bs_col-sm-5.png",
-    "Sources/bs_offset-2.png",
-    "Sources/bs_col-md-6.png"
+    "Sources/bs_offset-2.png"
   ]
 }
