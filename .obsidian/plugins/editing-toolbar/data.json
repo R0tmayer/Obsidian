@@ -3,6 +3,11 @@
   "positionStyle": "top",
   "menuCommands": [
     {
+      "id": "editor:toggle-numbered-list",
+      "name": "Toggle numbered list",
+      "icon": "lucide-list-ordered"
+    },
+    {
       "id": "editor:toggle-bullet-list",
       "name": "Toggle bullet list",
       "icon": "lucide-list"
