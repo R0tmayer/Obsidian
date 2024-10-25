@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "BackEnd/WebTechnologies/REST API.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -164,6 +164,8 @@
   },
   "active": "e4ac2502c23215eb",
   "lastOpenFiles": [
+    "Sources/Fielding Dissertation_ CHAPTER 5_ Representational State Transfer (REST) 1.html",
+    "Sources/Fielding Dissertation_ CHAPTER 5_ Representational State Transfer (REST).html",
     "FrontEnd/Vue.js/Options.md",
     "BackEnd/WebTechnologies/REST API.md",
     "FrontEnd/Vue.js/Vue.js Summary.md",
@@ -200,7 +202,6 @@
     "FrontEnd/Deal with SVG.md",
     "FrontEnd/Lifecycle hooks.md",
     "BackEnd/SQL/PostgreSQL.md",
-    "FrontEnd/Vue.js/Components.md",
     "FrontEnd/Typescript",
     "BackEnd/EF Core",
     "BackEnd/WebTechnologies/HTTP",
@@ -209,7 +210,6 @@
     "BackEnd/WebTechnologies",
     "Untitled.canvas",
     "FrontEnd/Vue.js",
-    "BackEnd/DotNet",
-    "BackEnd/ASP.NET Core"
+    "BackEnd/DotNet"
   ]
 }
