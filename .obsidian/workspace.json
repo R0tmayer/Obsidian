@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c7a1bb46902ae89d",
+        "id": "1401f526e6be529f",
         "type": "tabs",
         "children": [
           {
-            "id": "e4ac2502c23215eb",
+            "id": "1aede0fe7a8e5c9f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -162,12 +162,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e4ac2502c23215eb",
+  "active": "1aede0fe7a8e5c9f",
   "lastOpenFiles": [
+    "Sources/sql_cart-structure.png",
+    "Sources/Pasted image 20241020094835.png",
+    "Sources/Pasted image 20241018135743.png",
+    "Sources/Pasted image 20241018135753.png",
+    "Sources/Pasted image 20241017205713.png",
+    "Sources/Pasted image 20241016225628.png",
+    "Sources/Pasted image 20241016221248.png",
+    "Sources/Pasted image 20241016220905.png",
+    "Sources/Pasted image 20240423094041.png",
+    "Sources/Pasted image 20240317150804.png",
+    "Sources/Pasted image 20240423090521.png",
+    "BackEnd/WebTechnologies/REST API.md",
     "Sources/Fielding Dissertation_ CHAPTER 5_ Representational State Transfer (REST) 1.html",
     "Sources/Fielding Dissertation_ CHAPTER 5_ Representational State Transfer (REST).html",
     "FrontEnd/Vue.js/Options.md",
-    "BackEnd/WebTechnologies/REST API.md",
     "FrontEnd/Vue.js/Vue.js Summary.md",
     "FrontEnd/Vue.js/Vue.js 2.7.md",
     "FrontEnd/Vue.js/Modificators Vue.js.md",
@@ -184,16 +195,6 @@
     "SwiftUI/NavigationLink.md",
     "SwiftUI/Form.md",
     "SwiftUI",
-    "Sources/Pasted image 20241020094835.png",
-    "Sources/Pasted image 20241018135757.png",
-    "Sources/Pasted image 20241018135753.png",
-    "Sources/Pasted image 20241018135743.png",
-    "Sources/Pasted image 20241017222435.png",
-    "Sources/Pasted image 20241017215811.png",
-    "Sources/Pasted image 20241017215701.png",
-    "Sources/Pasted image 20241017211343.png",
-    "Sources/Pasted image 20241017211305.png",
-    "Sources/Pasted image 20241017211221.png",
     "BackEnd/DotNet/DI-контейнер.md",
     "BackEnd/DotNet/DI.md",
     "BackEnd/DotNet/Collections.md",
@@ -209,7 +210,6 @@
     "FrontEnd/Bootstrap",
     "BackEnd/WebTechnologies",
     "Untitled.canvas",
-    "FrontEnd/Vue.js",
-    "BackEnd/DotNet"
+    "FrontEnd/Vue.js"
   ]
 }
